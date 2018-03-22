@@ -1,0 +1,30 @@
+cluster: 0Citrus Fresh Meat Mushroom Oil Pepper 6
+cluster: 1Acid Alcohol Almonds Anise Apple  Arise Aromatic Asparagus Astringent Baked Baked Potatoes Balsamic Beeswax Bell Pepper Berry Blue Cheese Boiled Apple Boiled Cherries Boiled Vegetable Box Tree Bread Crust Brown Sugar Burnt Matches Camomile Candy Carbide Cedarwood Celery Cinnamon Clove Coconut Cognac Cooked Cooked Nut Cooked potato Coriander Cotton Cotton Candy Creamy Cresol Cucumber Curry Cut Grass Dairy Dandelion Dill Dry Fish Dull Durian Dust Ester Eucalyptol Fabric Fatty Fermented Fir Fish Fish Oil Foxy Fruity Fusel Oil Geranium Glue Grape Gravy Green Apple Green Bean Green Pepper Greenery Harsh Hay Heat Hop Horseradish Hot Milk Iron Scorch Jasmine Kiwi Lactone Lavender Leaf Leather Lemon Lemon Peel Lettuce Lilac Lily Linoleum Mandarin Maple Marshmallow Melon Mocha Mold Moss Mothball Mouthfeel Mustard Nutmeg Nuts Orange Organic Orris Oxidized Paper Passion Fruit Pastry Peanut Peanut Butter Peppermint Petrol Phenol Pine Pleasant Prune Putty Pyridine Radish Raspberry Red Fruit Rhubarb Roasted Bread Roasted Corn Roasted Garlic Roasted Meat Roasted Onion Rubber Seaweed Sharp Silage Solvent Soup Sour Soy Spearmint Stable Stinging Nettle Straw Sweat Thiamin Thyme Toasted Cereal Toasted Nut Tomato Tomato Leaf Tropical Fruit Truffle Vanilla Vegetable Vinegar Violet Wax Waxy Wet Wet Earth Wet Hay Wine Yeast 158
+cluster: 2Fruit 1
+cluster: 3Spice 1
+cluster: 4Cool Mint 2
+cluster: 5Green 1
+cluster: 6Cabbage Garlic Sulfur 3
+cluster: 7Nut Roast Roasted Rum 4
+cluster: 8Apple Banana Pear Strawberry 4
+cluster: 9Honey Rose 2
+cluster: 10Floral 1
+cluster: 11Apple Peel Apricot Brandy Fruit Gum Overripe Fruit Peach Pineapple Plum 8
+cluster: 12Black Currant Cat Grapefruit Mango 4
+cluster: 13Fat 1
+cluster: 14Camphor Earth Fragrant Must Polish Wood 6
+cluster: 15Basil Bitter Caraway Fennel 4
+cluster: 16Leek Meat Broth Onion 3
+cluster: 17Cheese Pungent 2
+cluster: 18Almond Burnt Butter Caramel 4
+cluster: 19Savory Umami 2
+cluster: 20Bitter Almond Burnt Sugar Cherry Malt Roasted Pepper 5
+cluster: 21Bread Flower Hazelnut Licorice Walnut Warm 6
+cluster: 22Grass Green Fruit Green Leaf Unripe Banana 4
+cluster: 23Cooked Meat Fried Orange Peel Penetrating Potato Tallow 6
+cluster: 24Cocoa 1
+cluster: 25Cereal Deep Fried Watermelon Wet Wool 4
+cluster: 26Coffee Popcorn Roast Beef Roasted Nut 4
+cluster: 27Herb 1
+
+--------------------

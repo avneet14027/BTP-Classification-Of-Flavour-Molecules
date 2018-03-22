@@ -1,0 +1,2230 @@
+pubchem_id,fema_flavor_profile
+4,Not Available
+47,Fruit
+49,Not Available
+51,Not Available
+58,Savory
+70,Fruit
+107,Not Available
+119,Savory
+125,Nuts
+126,Roast
+135,Not Available
+176,"Acid, Fruit, Pungent, Sour, Vinegar"
+177,"Floral, Green Apple"
+178,Not Available
+179,"Butter, Creamy, Green Pepper"
+180,Pungent
+196,Not Available
+239,Not Available
+240,"Bitter Almond, Burnt Sugar, Cherry, Malt, Roasted Pepper"
+243,"Pungent, Sour"
+244,"Boiled Cherries, Moss, Roasted Bread, Rose"
+247,"Savory, Umami"
+261,"Banana, Green, Pungent"
+262,Not Available
+263,Fruit
+264,"Butter, Cheese, Sour"
+284,Savory
+311,Not Available
+313,Not Available
+323,Not Available
+325,"Herb, Wood"
+326,"Acid, Green, Herb, Sharp"
+332,"Clove, Curry, Spice"
+335,Not Available
+338,Not Available
+342,Not Available
+356,Not Available
+379,"Cheese, Fat, Grass, Oil"
+402,Not Available
+454,"Citrus, Fat, Green, Oil, Pungent"
+460,"Burnt, Phenol, Wood"
+473,Not Available
+527,"Floral, Pungent, Solvent"
+602,Not Available
+612,Not Available
+650,"Butter, Pastry, Yeast"
+660,Dairy
+670,"Mint, Cool"
+674,Not Available
+679,Garlic
+702,Not Available
+750,Not Available
+753,Not Available
+785,Not Available
+791,Nuts
+798,"Burnt, Mothball"
+875,Not Available
+876,Savory
+878,"Cabbage, Garlic, Pungent, Sulfur"
+880,Savory
+887,Not Available
+931,Not Available
+948,Not Available
+957,"Bitter Almond, Burnt Matches, Fat, Floral"
+964,Savory
+971,Not Available
+985,Not Available
+994,Not Available
+996,Not Available
+997,Not Available
+998,"Berry, Geranium, Honey, Nut, Pungent"
+999,"Caramel, Floral, Flower, Honey"
+1001,Not Available
+1004,Not Available
+1030,Not Available
+1031,"Alcohol, Candy, Pungent"
+1032,"Fat, Fruit, Pungent, Silage, Soy"
+1049,Not Available
+1060,Not Available
+1068,"Cabbage, Organic, Sulfur, Wet Earth"
+1103,Not Available
+1119,Not Available
+1123,Not Available
+1136,"Nuts, Sulfur"
+1140,Not Available
+1145,Not Available
+1146,Not Available
+1182,Not Available
+1183,Vanilla
+1213,Not Available
+1491,Not Available
+2214,Not Available
+2345,"Balsamic, Herb, Oil"
+2346,Not Available
+2519,Not Available
+2682,"Flower, Wax"
+2758,"Camphor, Cool, Eucalyptol, Mint"
+2879,"Pungent, Stable"
+2969,"Dust, Fat, Grass"
+2998,Savory
+3026,Not Available
+3102,Floral
+3314,"Burnt, Clove, Spice"
+3776,Floral
+3893,Not Available
+4133,"Almond, Caramel, Peppermint, Sharp"
+4276,Not Available
+4650,Not Available
+4788,Not Available
+4837,Savory
+4947,Not Available
+5054,Floral
+5144,Not Available
+5281,Dairy
+5429,Not Available
+5541,Mouthfeel
+5610,Savory
+5634,Floral
+5780,Not Available
+5862,Savory
+5960,Not Available
+5961,Dairy
+5962,Not Available
+5971,"Garlic, Pungent, Sulfur"
+6050,Not Available
+6054,"Fruit, Honey, Lilac, Rose, Wine"
+6057,Not Available
+6106,Not Available
+6116,Not Available
+6140,Not Available
+6184,"Apple, Fat, Fresh, Green, Oil"
+6202,Not Available
+6224,Not Available
+6274,Not Available
+6276,"Balsamic, Fruit, Green, Pungent, Yeast"
+6322,Not Available
+6341,Not Available
+6343,"Earth, Onion, Rubber, Sulfur"
+6344,Not Available
+6354,Not Available
+6363,Not Available
+6448,"Floral@Green@Herb, Pine"
+6501,Fruit
+6505,Floral
+6506,Fruit
+6532,Fruit
+6544,"Cedarwood, Spice"
+6548,Green
+6549,"Coriander, Floral, Lavender, Lemon, Rose"
+6558,Not Available
+6560,"Apple, Bitter, Cocoa, Wine"
+6561,"Burnt, Caramel, Cocoa, Green, Malt"
+6568,Not Available
+6569,"Fragrant, Fruit, Pleasant"
+6584,"Ester, Green"
+6590,"Burnt, Butter, Cheese, Sweat"
+6616,"Camphor, Mothball, Oil, Warm"
+6654,"Cedarwood, Pine, Sharp"
+6658,"Pungent, Sulfur"
+6736,Not Available
+6781,Not Available
+6782,Not Available
+6826,"Floral, Must"
+6873,Floral
+6874,Fruit
+6877,Floral
+6885,Not Available
+6915,Fruit
+6943,Heat
+6949,Not Available
+6985,Floral
+6986,"Green, Fresh, Mint@Mint, Cool"
+6989,"Spice, Wood"
+6998,"Almond, Phenol, Pungent, Spice"
+7002,Not Available
+7017,Not Available
+7041,Phenol
+7043,"Earth, Moss, Wood"
+7047,Not Available
+7055,Not Available
+7058,Savory
+7059,Not Available
+7092,Not Available
+7095,Floral
+7119,Not Available
+7122,Not Available
+7127,Not Available
+7129,Floral
+7136,Floral
+7144,Phenol
+7146,Floral
+7147,Floral
+7148,Fruit
+7150,"Herb, Lettuce, Prune, Violet"
+7151,Heat
+7165,"Camomile, Celery, Fat, Flower, Fruit"
+7170,Fruit
+7175,Not Available
+7184,Not Available
+7193,Balsamic
+7194,Not Available
+7197,Not Available
+7222,"Nut, Rubber"
+7225,Not Available
+7237,Not Available
+7247,Not Available
+7249,Phenol
+7267,Not Available
+7283,Not Available
+7284,"Almond, Cocoa, Fermented, Hazelnut, Malt"
+7302,"Caramel, Cheese, Roasted Nut"
+7304,Not Available
+7311,Not Available
+7335,"Green, Spearmint"
+7336,Fruit
+7341,Dairy
+7342,Not Available
+7344,"Cheese, Floral, Fruit, Pungent, Rubber"
+7351,Fruit
+7353,Fruit
+7359,Fruit
+7360,Nuts
+7361,"Burnt, Caramel, Cooked"
+7362,"Almond, Baked Potatoes, Bread, Burnt, Spice"
+7363,"Coffee, Roasted Meat"
+7364,Not Available
+7393,Not Available
+7409,"Floral, Honey, Rose"
+7410,"Almonds, Flower, Meat, Must"
+7413,Fruit
+7438,"Caraway, Fat, Fresh, Spearmint"
+7439,"Basil, Bitter, Caraway, Fennel, Mint"
+7456,Not Available
+7459,Not Available
+7460,"Citrus, Fresh, Mint, Pepper, Spice, Wood"
+7461,"Bitter, Citrus"
+7462,Lemon
+7463,"Citrus, Fresh, Solvent"
+7469,Not Available
+7476,Bitter
+7478,Savory
+7500,Not Available
+7501,Not Available
+7507,Not Available
+7509,Savory
+7519,Not Available
+7520,Floral
+7531,Floral
+7559,"Honey, Jasmine"
+7583,Green
+7590,"Floral, Fruit, Honey, Rose"
+7593,Cut Grass
+7599,Floral
+7600,Floral
+7601,Floral
+7616,Not Available
+7632,Floral
+7633,Floral
+7643,"Flower, Fruit"
+7646,Fruit
+7650,"Melon, Peach, Plum"
+7651,Fruit
+7654,"Flower, Honey, Rose"
+7655,Green
+7657,Fruit
+7658,Floral
+7662,Fruit
+7663,Fruit
+7664,Floral
+7668,Not Available
+7685,Floral
+7695,Fruit
+7702,Floral
+7704,"Coconut, Fruit"
+7707,Green
+7708,Fruit
+7710,Not Available
+7711,Green
+7714,"Apricot, Fruit"
+7720,"Green, Rose"
+7725,Not Available
+7728,Savory
+7731,Floral
+7733,Floral
+7738,"Flower, Herb"
+7742,Not Available
+7749,"Apple, Pineapple, Rum, Strawberry"
+7755,Savory
+7761,Apple
+7762,"Apple, Butter, Cheese, Pineapple, Strawberry"
+7765,"Creamy, Fruit, Pleasant, Tropical Fruit"
+7768,Spice
+7770,"Apricot, Fruit, Pineapple, Solvent"
+7772,"Apple, Apricot, Pineapple"
+7775,"Green, Spice"
+7778,Fruit
+7781,Floral
+7792,Floral
+7794,"Citrus, Fat, Leaf"
+7795,Fruit
+7797,"Brandy, Fruit, Wine"
+7799,"Apricot, Brandy, Fat, Floral, Pineapple"
+7800,"Floral, Fruit, Leaf"
+7802,Cool
+7803,"Apple, Banana, Pineapple"
+7809,Not Available
+7820,Fruit
+7824,"Ester, Fresh, Fruit, Pineapple"
+7826,Green
+7845,Not Available
+7847,Not Available
+7848,"Cabbage, Onion"
+7852,Not Available
+7888,Floral
+7894,Not Available
+7895,"Fruit, Pungent"
+7896,Not Available
+7909,Not Available
+7915,Banana
+7918,Not Available
+7921,Herb
+7929,Not Available
+7936,Green
+7937,Savory
+7938,"Cocoa, Coffee, Green, Roast Beef, Roasted Nut"
+7945,"Apple, Fruit, Pineapple, Sour"
+7947,Not Available
+7957,Green
+7958,Fruit
+7962,Not Available
+7964,Not Available
+7967,"Mint, Cool"
+7969,Penetrating
+7974,Not Available
+7975,Not Available
+7976,"Cocoa, Green, Hazelnut, Popcorn, Roasted"
+7981,Fruity
+7983,Floral
+7986,Fruit
+7991,"Cheese, Pungent"
+7997,"Celery, Floral, Pear, Red Fruit"
+8007,Not Available
+8012,Savory
+8013,Savory
+8025,Pungent
+8026,Not Available
+8027,Nut
+8028,Not Available
+8038,"Apple, Banana, Floral, Herb"
+8042,Dairy
+8048,"Brandy, Grape, Pear"
+8049,Fruit
+8050,Not Available
+8051,"Blue Cheese, Fruit, Green, Nut, Spice"
+8052,Apple
+8060,Not Available
+8063,"Almond, Bitter, Malt, Oil, Pungent"
+8067,Savory
+8073,Fruit
+8077,"Cabbage, Carbide, Roasted Onion, Rubber, Sulfur"
+8082,Floral
+8091,"Fruit, Orange, Wax, Wine"
+8092,Green
+8093,"Fat, Fragrant, Mold"
+8094,"Apricot, Floral, Sour"
+8102,Not Available
+8103,"Banana, Flower, Grass, Herb"
+8106,Sulfur
+8122,Not Available
+8125,Not Available
+8129,Not Available
+8130,"Citrus, Fat, Green, Nut"
+8137,Green
+8138,Floral
+8139,Not Available
+8141,Not Available
+8158,"Fat, Green, Sour"
+8159,"Floral, Fresh"
+8160,Not Available
+8163,"Fresh, Green, Orange, Rose"
+8164,Not Available
+8167,"Oil, Orange"
+8169,Floral
+8174,"Fat, Oil"
+8175,"Floral, Fried, Orange Peel, Penetrating, Tallow"
+8176,Floral
+8180,Oil
+8181,Not Available
+8182,Not Available
+8184,Mandarin
+8185,Not Available
+8186,Not Available
+8187,Fruit
+8193,Not Available
+8194,"Citrus, Fat, Lily"
+8205,Not Available
+8207,Not Available
+8209,Not Available
+8222,Not Available
+8257,Not Available
+8294,Fruit
+8298,"Mint, Cool"
+8299,"Butter, Herb, Malt, Pungent"
+8314,"Butter, Cheese, Fermented, Sour"
+8347,Floral
+8361,Not Available
+8363,Honey
+8365,Not Available
+8369,Not Available
+8375,Not Available
+8400,Floral
+8403,Not Available
+8405,Not Available
+8418,Not Available
+8419,Floral
+8432,Fruit
+8438,Anise
+8452,"Mint, Cool"
+8456,Not Available
+8467,Floral
+8468,"Astringent, Vanilla"
+8469,Fruit
+8471,Not Available
+8499,Fruit
+8500,"Bitter Almond, Floral, Fruit, Spice"
+8615,Floral
+8635,"Flower, Honey, Peach"
+8655,Floral
+8658,Floral
+8712,Savory
+8723,"Fish Oil, Green, Malt, Onion, Wine"
+8738,Dairy
+8748,Must
+8763,Savory
+8767,Floral
+8785,Fruit
+8792,"Floral, Mint"
+8794,Not Available
+8797,Floral
+8815,"Anise, Licorice"
+8821,Not Available
+8833,Floral
+8834,Fruit
+8835,"Fruit, Rose"
+8842,"Citrus, Green, Rose"
+8857,"Aromatic, Brandy, Grape"
+8858,Not Available
+8863,Floral
+8868,Onion
+8878,"Banana, Wine"
+8883,Not Available
+8892,"Cheese, Oil, Pungent, Sour"
+8900,Not Available
+8907,Not Available
+8908,"Apple, Banana, Grass, Herb, Pear"
+8914,"Fat, Floral, Green, Oil"
+8918,Fruit
+9012,Savory
+9016,Green
+9017,"Dust, Floral, Fragrant, Rose"
+9020,Not Available
+9024,Floral
+9025,Spice
+9256,Pyridine
+9261,Not Available
+9473,Floral
+9589,Savory
+9609,"Coffee, Meat"
+9862,"Citrus, Mushroom, Pepper, Rubber, Strawberry"
+9895,Not Available
+10037,Not Available
+10106,"Cool, Spice"
+10225,Not Available
+10231,Not Available
+10281,Not Available
+10282,Herb
+10329,Not Available
+10341,Not Available
+10362,Floral
+10364,"Caraway, Spice, Thyme"
+10402,Floral
+10405,Not Available
+10408,Not Available
+10430,"Cheese, Pungent"
+10448,"Earth, Garlic, Potato, Soy"
+10452,Not Available
+10453,Not Available
+10484,Savory
+10558,Savory
+10582,"Mint, Cool"
+10657,Not Available
+10659,Not Available
+10698,Not Available
+10703,Not Available
+10778,Fruit
+10795,Not Available
+10797,Not Available
+10812,Not Available
+10817,Floral
+10819,"Fat, Green, Pungent"
+10823,Nuts
+10873,Fruit
+10882,"Apple, Dry Fish, Herb, Nut, Yeast"
+10883,Fruit
+10885,Fruit
+10886,"Floral, Fresh, Rose"
+10890,Banana
+10895,Fruit
+10902,Savory
+10925,Savory
+10927,Nuts
+10931,Green
+10943,Not Available
+10947,Floral
+10957,Floral
+10966,Savory
+10976,"Citrus, Earth, Fried, Mushroom, Oil"
+10979,Not Available
+11002,Green
+11005,"Burnt, Cheese, Harsh, Oil"
+11006,Not Available
+11038,Floral
+11039,"Flower, Fruit"
+11086,Not Available
+11124,"Fruit, Rum"
+11142,Not Available
+11160,"Apple, Fruit, Pineapple"
+11167,Savory
+11173,"Cooked Nut, Fruit, Herb, Oil"
+11176,Fruit
+11230,"Earth, Must, Nutmeg, Wood"
+11335,"Cresol, Phenol"
+11340,Floral
+11363,Savory
+11370,Spice
+11419,"Mint, Cool"
+11449,Green
+11461,Spice
+11463,Pine
+11468,Not Available
+11508,Fruit
+11509,Grape
+11514,Fruit
+11520,Herb
+11523,Not Available
+11525,Not Available
+11527,"Citrus, Moss, Mushroom, Nut, Oil"
+11529,"Red Fruit, Strawberry"
+11552,Not Available
+11559,Floral
+11567,"Mint, Cool"
+11576,Fruit
+11579,Fruit
+11613,"Green, Pungent, Sulfur"
+11614,Fruit
+11617,Savory
+11622,Savory
+11635,Not Available
+11686,Not Available
+11732,Not Available
+11747,Not Available
+11902,Fruit
+11982,Savory
+12020,"Butter, Fish, Green, Oxidized, Wet Earth"
+12025,Not Available
+12041,Floral
+12044,Fruit
+12072,Not Available
+12097,Not Available
+12105,Not Available
+12146,Fruit
+12150,Not Available
+12170,Fruit
+12178,"Solvent, Spice, Wine"
+12180,"Apple, Banana, Cheese, Ester, Floral"
+12206,Fruit
+12209,"Apple, Banana, Pear"
+12230,"Garlic, Sulfur"
+12232,"Cabbage, Garlic, Onion"
+12247,Not Available
+12256,Not Available
+12257,Fruit
+12264,Not Available
+12266,Savory
+12278,Fruit
+12293,"Berry, Fruit, Petrol, Pineapple, Roasted Garlic"
+12294,"Fruit, Grass, Green"
+12327,"Coconut, Cognac"
+12344,Dairy
+12366,Wax
+12367,Cucumber
+12377,"Cooked Meat, Garlic, Onion, Pungent, Sulfur"
+12388,Not Available
+12389,Not Available
+12391,Not Available
+12395,Not Available
+12397,Not Available
+12398,Not Available
+12401,Not Available
+12403,Not Available
+12406,Not Available
+12506,Savory
+12507,Not Available
+12508,Fruit
+12518,Savory
+12523,Not Available
+12529,Fruit
+12530,Not Available
+12534,Not Available
+12566,Spice
+12570,Not Available
+12571,Fruit
+12578,Spice
+12580,Not Available
+12581,Not Available
+12587,Floral
+12592,Not Available
+12613,Green
+12729,Green
+12741,"Fat, Fruit"
+12748,"Green, Nut, Roasted Meat"
+12756,Onion
+12777,"Coconut, Peach"
+12779,Savory
+12780,Spice
+12810,Coconut
+12813,"Fat, Fruit, Lactone, Peach"
+12844,Fruit
+12997,Not Available
+13016,Savory
+13187,"Fragrant, Fruit, Green, Hot Milk"
+13204,Spice
+13233,"Camphor, Earth, Sulfur"
+13357,"Apple, Fruit, Green Apple, Strawberry"
+13367,Savory
+13436,Savory
+13561,Not Available
+13572,Not Available
+13576,Fruit
+13587,Not Available
+13621,Not Available
+13654,Fruit
+13849,Not Available
+13854,Not Available
+14079,"Bread, Cocoa, Hazelnut, Licorice, Walnut"
+14092,Not Available
+14104,Floral
+14228,"Green, Herb, Oil"
+14286,"Popcorn, Roasted Nut"
+14295,Floral
+14296,"Cocoa, Coffee, Green, Mocha, Roast"
+14475,Dairy
+14489,Putty
+14491,Savory
+14493,Savory
+14504,Nuts
+14505,"Balsamic, Cocoa, Coffee"
+14511,Savory
+14514,"Nut, Vegetable"
+14529,Not Available
+14896,"Pine, Polish, Wood"
+14922,Not Available
+14928,Not Available
+14950,Not Available
+15037,"Cocoa, Green, Roast"
+15172,Fruit
+15268,Not Available
+15269,Not Available
+15286,Not Available
+15336,Fruit
+15380,"Garlic, Sulfur"
+15394,"Fish, Green, Mustard, Pungent"
+15406,"Camphor, Lemon"
+15422,Savory
+15448,Fruit
+15450,Not Available
+15504,Not Available
+15510,Savory
+15571,Not Available
+15600,Not Available
+15606,"Coconut, Floral, Fruit"
+15654,"Cocoa, Fat, Nut, Popcorn, Roast"
+15717,Floral
+15877,Savory
+15979,Not Available
+16237,"Flower, Honey"
+16255,Fruit
+16315,Savory
+16324,Fruit
+16330,Spice
+16331,Fruit
+16418,Savory
+16441,"Cherry, Fat, Green, Pungent, Sour, Spice"
+16537,"Citrus, Herb"
+16582,Fruit
+16590,Garlic
+16591,Green
+16592,"Onion, Penetrating, Sulfur"
+16617,"Anise, Fruit, Spice"
+16666,"Mint, Cool"
+16741,Green
+16800,Fat
+16821,"Apricot, Flower, Fruit, Peach"
+16832,Fresh
+16835,Not Available
+16846,Fruit
+16872,Fruit
+16997,Not Available
+17000,Floral
+17008,Fruit
+17016,Not Available
+17029,Dairy
+17100,"Anise, Fresh, Mint, Oil"
+17121,Not Available
+17129,"Apple, Berry, Rum"
+17356,Savory
+17525,"Apple Peel, Citrus, Fresh"
+17586,Floral
+17617,Pineapple
+17623,Fruit
+17691,Fruit
+17739,"Clove, Phenol"
+17816,Fruit
+17898,Not Available
+17899,Not Available
+18467,Nuts
+18522,Nuts
+18554,"Butter, Caramel"
+18635,"Cooked potato, Soy"
+18686,Fruit
+18698,Dairy
+18815,Not Available
+18818,Not Available
+18827,"Cucumber, Earth, Fat, Floral, Mushroom"
+18938,Green
+19089,Floral
+19137,Fruit
+19188,Not Available
+19233,Not Available
+19309,"Burnt, Caramel, Cotton Candy, Honey"
+19310,"Cabbage, Fish, Onion, Sulfur"
+19315,Not Available
+19602,"Butter, Floral, Fruit, Green Bean"
+19603,Not Available
+19707,Savory
+20083,"Fat, Mushroom"
+20149,Not Available
+20219,Fruit
+20357,Green
+20358,Fruit
+20487,Dairy
+20499,Not Available
+20534,Wet Hay
+20653,Dairy
+20748,"Ester, Fruit"
+20799,Green
+20819,Not Available
+20861,Not Available
+20928,Green
+20995,"Fruit, Wood"
+21057,Savory
+21059,Fruit
+21108,Baked
+21265,Fruit
+21363,Floral
+21574,Green
+21596,Fruit
+21625,Savory
+21648,"Citrus, Raspberry"
+21712,Not Available
+21828,Sulfur
+21895,Floral
+22201,"Caramel, Cocoa, Hazelnut, Peanut Butter, Roasted"
+22310,Floral
+22311,Not Available
+22383,Garlic
+22386,"Fusel Oil, Green"
+22873,"Apple Peel, Peach, Plum"
+23110,Savory
+23235,Savory
+23367,Fruit
+23535,Floral
+23642,Savory
+24020,"Apple, Ester, Green Apple, Kiwi, Strawberry"
+24114,Dairy
+24115,Dairy
+24116,Green
+24117,Fruit
+24197,Brown Sugar
+24433,Fruit
+24456,Not Available
+24473,Spice
+24510,Floral
+24513,Fruit
+24515,Fruit
+24516,Green
+24583,Floral
+24699,Dairy
+24748,Not Available
+24834,Floral
+24835,Heat
+24838,Strawberry
+24874,Not Available
+24915,Floral
+24968,Not Available
+25311,Not Available
+25611,Green
+25793,Not Available
+25915,"Fruit, Green"
+26049,Lemon
+26058,Not Available
+26204,Fruit
+26331,"Burnt, Green, Iron Scorch, Must, Peanut Butter, Roasted, Rum, Wood"
+26332,"Green, Nuts, Roasted"
+26333,Green
+26334,Not Available
+26335,Savory
+26808,"Cocoa, Earth, Must, Potato, Roast"
+27208,Not Available
+27209,Fruit
+27440,Savory
+27457,"Green, Must, Nut, Potato, Roasted"
+27458,"Cereal, Hazelnut, Meat, Nut"
+27866,Green
+27867,Not Available
+27892,Not Available
+28905,"Earth, Meat, Potato, Roast"
+28906,"Baked, Cocoa, Roast, Rum"
+29025,Green
+29995,Not Available
+30215,Not Available
+30231,Not Available
+30248,"Camphor, Mint"
+30771,Floral
+30914,"Roast, Roasted Corn, Toasted Cereal"
+30945,Not Available
+31209,Fruit
+31210,Floral
+31211,Heat
+31219,Fruit
+31225,Floral
+31226,Floral
+31229,Not Available
+31231,Herb
+31234,"Arise, Cinnamon, Fruit"
+31237,Not Available
+31242,"Leather, Phenol, Spice, Stable"
+31244,"Almond, Anise, Mint"
+31245,Green
+31246,Fruit
+31249,"Cotton, Fabric, Floral, Fruit, Wine"
+31251,Floral
+31252,"Cocoa, Roast Beef, Roasted Nut"
+31253,"Balsamic, Fruit, Geranium, Herb, Must"
+31256,Not Available
+31260,"Burnt, Cocoa, Floral, Malt"
+31264,Not Available
+31265,"Apple Peel, Brandy, Fruit Gum, Overripe Fruit, Pineapple"
+31266,Pineapple
+31268,Not Available
+31272,"Apple, Banana, Glue, Pungent"
+31276,"Apple, Banana, Glue, Pear"
+31278,Dairy
+31283,Wax
+31284,"Fat, Orris"
+31289,"Fat, Floral, Green, Lemon"
+31291,Not Available
+31340,Not Available
+31353,Floral
+31404,Toasted Cereal
+31408,Not Available
+31492,"Green, Mold, Wood"
+32033,Savory
+32065,"Nuts, Peanut, Roast"
+32093,Not Available
+32594,"Bell Pepper, Earth, Green Pepper, Spice"
+33022,Not Available
+33032,Savory
+33166,Not Available
+33637,"Flower, Walnut, Warm"
+33645,"Durian, Sulfur"
+33931,Not Available
+33934,Not Available
+33960,Dairy
+34134,Cucumber
+34286,"Fried, Nut, Potato, Roasted Meat"
+34590,Savory
+34645,"Mint, Cool"
+35349,Green
+35821,Fruit
+36225,Savory
+36822,Savory
+37109,Not Available
+38679,Onion
+41569,Meat
+41570,Savory
+42011,Fish
+43046,Savory
+43263,Fruit
+43579,Savory
+43598,Savory
+47649,"Cooked Meat, Nut, Thiamin"
+53654,Not Available
+60968,Floral
+60979,"Anise, Fennel"
+60983,Dairy
+60985,"Fruit, Rose"
+60990,Green
+60995,Floral
+60997,Floral
+60998,Honey
+60999,Floral
+61005,Fruit
+61006,Fruit
+61007,Floral
+61010,Floral
+61014,Floral
+61015,Oil
+61016,"Fruit, Green, Melon"
+61020,"Almond, Roasted"
+61024,Fruit
+61027,Fruit
+61030,Fruit
+61031,Not Available
+61035,Dairy
+61040,"Citrus, Coriander"
+61041,Herb
+61045,Savory
+61048,Fruit
+61050,Floral
+61051,Not Available
+61052,Floral
+61054,Fruit
+61079,Not Available
+61085,Fruit
+61092,Fruit
+61093,Floral
+61096,Fruit
+61098,Fruit
+61124,Not Available
+61126,Green
+61130,"Mint, Cool"
+61134,Floral
+61135,Fruit
+61137,Fruity
+61138,Dairy
+61151,Floral
+61153,Not Available
+61155,Floral
+61156,Green
+61159,Green
+61166,"Floral, Spice"
+61171,"Coffee, Fruit, Sulfur"
+61177,Fruit
+61183,Fruit
+61184,"Fruit, Pungent"
+61185,Floral
+61192,Savory
+61199,"Curry, Honey, Spice"
+61200,Not Available
+61202,Green
+61204,Peach
+61206,Fruit
+61209,Not Available
+61217,Not Available
+61229,Floral
+61235,Floral
+61240,Savory
+61243,Not Available
+61252,Savory
+61260,"Popcorn, Roast"
+61261,Savory
+61262,Floral
+61270,Not Available
+61275,"Flower, Oil"
+61282,Savory
+61284,Fruit
+61290,Floral
+61293,"Floral, Fresh, Fruit, Passion Fruit, Rubber"
+61294,Fruit
+61295,Savory
+61296,Fruit
+61302,Floral
+61303,Green
+61304,Fruit
+61319,Fruit
+61325,"Bread Crust, Butter, Caramel, Floral, Fruit"
+61331,Floral
+61334,Caramel
+61337,Fruit
+61341,Nuts
+61342,Fruity
+61346,"Earth, Mushroom"
+61359,Green
+61361,Green
+61362,"Mint, Cool"
+61367,Not Available
+61375,Fruit
+61384,Fruit
+61385,Not Available
+61386,Mouthfeel
+61400,Savory
+61401,Fruit
+61402,Heat
+61403,Green Leaf
+61404,Dairy
+61405,Pineapple
+61406,Fruit
+61407,"Apricot, Fruit, Peach, Pineapple"
+61408,Nut
+61410,Green
+61412,Fruit
+61415,Fruit
+61416,"Herb, Honey, Rose, Warm"
+61417,Fruit
+61431,Floral
+61434,Floral
+61435,Floral
+61446,Floral
+61447,Fruit
+61448,Fruit
+61450,Fruit
+61451,Green
+61452,Fruit
+61453,Green
+61455,Fruit
+61457,Fruit
+61464,Green
+61466,Fruit
+61502,Savory
+61516,Floral
+61517,Green
+61523,Floral
+61524,Floral
+61527,Savory
+61585,Floral
+61586,Not Available
+61590,Savory
+61592,Not Available
+61633,Floral
+61634,Savory
+61641,"Cabbage, Garlic, Radish, Spice, Sulfur, Tropical Fruit"
+61653,"Cocoa, Nut"
+61656,Savory
+61657,Savory
+61658,Fruit
+61659,Savory
+61660,Roast
+61661,Savory
+61662,Savory
+61663,Sulfur
+61664,"Cabbage, Must, Onion"
+61665,Floral
+61670,Nuts
+61700,Not Available
+61712,Not Available
+61715,Not Available
+61738,Fruit
+61743,Dairy
+61746,Floral
+61771,"Mint, Cool"
+61780,Fruit
+61808,"Meat, Roast, Sulfur"
+61809,Savory
+61812,Not Available
+61814,Fruit
+61829,Savory
+61834,Dairy
+61835,Fruit
+61840,Savory
+61845,Savory
+61874,Not Available
+61875,Fruit
+61914,Fruit
+61918,Savory
+61922,Fruit
+61926,Savory
+61935,Not Available
+61936,Savory
+61942,"Mint, Cool"
+61945,Savory
+61951,Savory
+61953,Honey
+61954,Not Available
+61955,Fruit
+61976,Green
+61979,Savory
+61980,Fruit
+61982,Savory
+61984,Floral
+61985,Fruit
+61988,Nuts
+61989,Savory
+61990,Fruit
+61997,Floral
+62000,Savory
+62003,Savory
+62007,Fruit
+62013,"Durian, Fat, Fruit, Mango"
+62017,Fruit
+62024,Fruit
+62069,Green
+62074,Not Available
+62087,Savory
+62089,Savory
+62090,Savory
+62092,Floral
+62095,"Mint, Cool"
+62098,Fruit
+62105,Savory
+62106,Not Available
+62117,Not Available
+62126,Fruit
+62128,Savory
+62131,Not Available
+62144,Savory
+62145,Savory
+62148,Savory
+62151,"Mint, Cool"
+62166,Fruit
+62182,Savory
+62183,Savory
+62217,Fruit
+62218,Green
+62237,"Black Currant, Cat, Meat, Onion, Sulfur"
+62321,Pear
+62326,Savory
+62328,Fruit
+62332,Honey
+62336,Fruit
+62341,Fruit
+62348,Dairy
+62349,Not Available
+62350,Not Available
+62351,Savory
+62362,Not Available
+62367,"Mint, Cool"
+62374,Floral
+62375,Green
+62378,Floral
+62384,Savory
+62385,"Citrus, Pine"
+62424,Savory
+62434,Green
+62444,"Cabbage, Cheese, Garlic, Sulfur"
+62445,Fruit
+62453,Not Available
+62465,"Clove, Phenol, Spice"
+62469,Floral
+62484,"Herb, Truffle"
+62490,Fruit
+62510,"Green, Nut, Roast, Roasted"
+62539,Fat
+62553,Floral
+62572,"Marshmallow, Roasted Nut"
+62578,Fruit
+62580,Fruit
+62583,Not Available
+62592,Fruit
+62653,Fruit
+62654,Floral
+62661,Green
+62725,"Green, Tomato, Tomato Leaf, Wine"
+62752,Savory
+62835,"Cotton Candy, Curry, Maple, Savory, Spice"
+62876,Green
+62897,Savory
+62900,"Butter, Cocoa, Coconut"
+62901,Savory
+62902,Fruit
+62907,"Mint, Cool"
+62908,Fruit
+62911,Floral
+62913,Savory
+64685,"Camphor, Fragrant, Green, Polish@Camphor, Must"
+65285,Savory
+65288,Not Available
+65289,Fruit
+65290,Savory
+65300,"Mint, Cool"
+65413,"Black Currant, Fruit, Melon"
+65425,Savory
+65427,Not Available
+65428,"Mint, Cool"
+65575,Not Available
+66828,Not Available
+68057,Not Available
+68148,Not Available
+68481,Not Available
+68482,Fruit
+68490,Not Available
+68960,Green
+68972,Not Available
+69320,Savory
+69350,Green
+69415,Green
+69816,Not Available
+69963,Green
+71544,Floral
+72281,Not Available
+73111,Not Available
+73750,"Cabbage, Cheese, Garlic, Sulfur"
+73885,Not Available
+74008,Green
+74096,Green
+74786,Heat
+75263,Savory
+75515,"Cabbage, Fruit, Green, Onion, Sulfur"
+75552,Not Available
+76152,Not Available
+76326,Not Available
+76654,Green
+76922,Floral
+77151,"Green, Onion, Roasted"
+77837,Nuts
+77932,"Durian, Onion, Roasted Onion, Sulfur, Tropical Fruit"
+78120,Green
+78126,Rubber
+78151,Green
+78152,Not Available
+78160,Cabbage
+78199,"Fruit, Green, Onion, Radish, Sulfur"
+78484,Floral
+78879,Not Available
+78925,Savory
+78941,"Mint, Cool"
+79023,Not Available
+79045,Not Available
+79086,Green
+79105,Not Available
+79803,Not Available
+80024,Savory
+80046,"Durian, Leek, Onion, Roasted Onion, Sulfur"
+80354,Fruit
+80455,Nuts
+80606,Not Available
+80796,Not Available
+81045,Fruit
+81221,Spice
+81263,Floral
+82227,Not Available
+82229,Floral
+82336,Fruit
+82635,Green
+83036,Fruit
+84216,Fruit
+84234,Floral
+84532,Not Available
+84559,Green
+84825,Mint
+85519,"Asparagus, Cabbage, Herb, Mushroom, Potato"
+85520,"Cheese, Mushroom, Sulfur"
+85522,"Cooked potato, Garlic, Roasted Nut"
+85730,Not Available
+86015,Fruit
+86016,Fruit
+86094,Fruit
+86559,Not Available
+86608,Not Available
+86733,Floral
+87436,"Horseradish, Mustard"
+87466,Green
+87793,Savory
+87813,Floral
+87947,Fruit
+88290,"Black Currant, Box Tree, Cat, Citrus, Meat"
+88454,Fruit
+89306,Fruit
+89307,Fruit
+89755,Not Available
+90246,Dairy
+90716,Not Available
+90972,Savory
+90984,Savory
+91354,Not Available
+91457,Not Available
+91558,Not Available
+92138,Not Available
+92231,Not Available
+92313,Not Available
+92649,Fruit
+92762,Not Available
+92780,Spice
+92972,Not Available
+93046,Not Available
+93081,Not Available
+93236,Savory
+93366,Green
+93838,Fruit
+94217,Not Available
+94254,Not Available
+94314,Savory
+94579,Not Available
+94886,Fruit
+95086,Fruit
+95337,Not Available
+95392,Fruit
+95397,Floral
+95457,Savory
+95495,Not Available
+95572,Fruit
+96923,Not Available
+97895,Fruit
+98043,Not Available
+98251,Not Available
+98330,Savory
+98461,Fruit
+98497,Green
+100031,Not Available
+101003,Savory
+101010,Green
+101365,Fruit
+101536,Nuts
+101549,Floral
+101716,Not Available
+102024,Not Available
+102550,Fruit
+102604,Floral
+102611,Not Available
+102648,"Mint, Cool"
+102667,Green
+102861,Fruit
+102916,Not Available
+102993,Green
+103034,Not Available
+103788,Savory
+104421,Not Available
+104620,Not Available
+104722,Not Available
+105652,Fruit
+105755,Not Available
+106217,Not Available
+106441,Not Available
+106530,Floral
+106756,Fruit
+106997,Savory
+107153,Not Available
+107166,Green
+107217,Floral
+107561,"Mint, Cool"
+108335,Not Available
+108518,Floral
+108764,Fruit
+109257,Green
+109332,Savory
+109457,Dairy
+109467,Floral
+110373,Fruit
+110543,Savory
+110664,Not Available
+110747,Fruit
+110968,Savory
+111037,"Herb, Wax"
+112733,Not Available
+113425,Floral
+116625,Savory
+117477,Not Available
+117754,Not Available
+118530,Green
+118658,Green
+118823,Not Available
+118928,Fruit
+121677,Not Available
+121694,Not Available
+122370,Savory
+123136,Not Available
+123388,Savory
+125207,Fruit
+125468,Savory
+126537,"Dill, Floral"
+134601,Not Available
+137065,Not Available
+137640,Not Available
+138818,Savory
+138824,Not Available
+140511,Green
+141850,Savory
+142266,Floral
+145386,Flower
+145742,Mouthfeel
+146586,"Almond, Coffee, Foxy, Spice"
+151199,Mouthfeel
+155007,Floral
+155626,"Mint, Cool"
+156273,Nuts
+159055,"Camphor, Earth, Pine, Spice"
+161528,Fruit
+162184,"Mint, Cool"
+162392,Floral
+162458,Fruit
+162464,Not Available
+165224,Green
+169110,"Caramel, Popcorn, Roast"
+169818,Fruit
+170833,"Mint, Cool"
+170977,Savory
+173312,Savory
+173534,Fruit
+173535,Fruit
+175553,Fruit
+176439,Spice
+181747,Green
+184852,Not Available
+185226,Not Available
+193527,Dairy
+206037,Cabbage
+219357,Fruit
+219672,Savory
+219794,Dairy
+221417,Fruit
+221641,Floral
+221691,Fruit
+222284,Not Available
+222656,Not Available
+226311,Savory
+226486,Savory
+228548,Floral
+228583,Savory
+228588,Spice
+228604,Green
+228769,Floral
+229153,Floral
+229377,Fruit
+229385,Floral
+229387,Fruit
+229888,Fruit
+230525,Floral
+231325,Fruit
+234237,Floral
+235414,Floral
+238498,Fruit
+240119,"Apple, Citrus"
+240925,Not Available
+243675,Fruit
+243691,Savory
+243783,Fruit
+245572,Savory
+246728,"Butter, Herb, Mold"
+246929,Spice
+247573,Green
+248488,Savory
+249494,Floral
+250096,Spice
+251529,Floral
+251530,Fruit
+251531,Floral
+256071,Savory
+263034,Savory
+263620,Fruit
+281254,Floral
+285097,Savory
+287439,Fruit
+289151,Not Available
+316771,Not Available
+329983,Savory
+346286,Floral
+381152,"Mint, Sharp"
+399848,Savory
+429065,Tropical Fruit
+439250,Not Available
+439263,"Mint, Cool"
+439570,"Basil, Bitter, Caraway, Fennel, Mint"
+440917,"Citrus, Mint"
+441005,Not Available
+442353,Not Available
+442393,Not Available
+442495,"Mint, Cool"
+443162,Not Available
+443314,Not Available
+444041,Not Available
+444539,"Floral, Honey, Wood"
+444972,Not Available
+445070,Oil
+445638,Not Available
+445639,Fat
+446925,"Fatty, Waxy"
+447466,Not Available
+448996,Fruit
+459494,Green
+517044,Not Available
+517045,Not Available
+517055,Not Available
+517637,Not Available
+517827,Floral
+517970,Green
+518472,"Camphor, Earth, Green@Green"
+518810,"Black Currant, Box Tree, Grapefruit, Mango, Passion Fruit"
+518937,Savory
+519158,Floral
+519323,Not Available
+519382,Floral
+519539,Green
+519709,Sulfur
+519732,Not Available
+519786,Not Available
+519823,Savory
+519845,Fruit
+519890,Fruit
+519907,Nuts
+520098,Not Available
+520108,"Nut, Popcorn, Roast, Sulfur"
+520119,Savory
+520144,Not Available
+520148,Floral
+520191,Not Available
+520296,Dairy
+520326,Fruit
+520440,Spice
+520455,Mouthfeel
+520484,Fruit
+520682,"Leek, Meat Broth, Onion, Soup"
+520888,Savory
+520895,Savory
+521185,Not Available
+521238,Not Available
+521246,Fruit
+521300,Savory
+521326,Fruit
+521348,"Black Currant, Grapefruit, Mango, Rhubarb, Sulfur"
+521869,"Cheese, Meat"
+521902,Not Available
+522071,Savory
+522111,Savory
+522214,Fruit
+522459,Savory
+522514,Floral
+522673,Fruit
+522674,Coffee
+522676,Fruit
+522677,Fruit
+524200,Not Available
+524461,Fruit
+524975,Not Available
+525358,Green
+526152,Fruit
+526195,"Black Currant, Cat"
+526487,"Black Currant, Cat, Roast"
+526616,Savory
+526624,Roasted Meat
+526708,Fruit
+526853,Savory
+526993,Green
+527108,Spice
+527144,"Fruit, Herb"
+527268,Spice
+527393,"Black Currant, Greenery, Potato"
+527435,"Meat Broth, Onion"
+527498,Not Available
+528698,Not Available
+528763,Not Available
+529052,Not Available
+529056,Not Available
+529251,"Popcorn, Roast"
+529253,Mouthfeel
+529388,Savory
+529481,"Fruit, Green, Hay, Straw"
+529496,Green
+534377,Not Available
+534429,Not Available
+534969,Savory
+536987,"Black Currant, Grapefruit, Tropical Fruit"
+537615,Floral
+537682,Not Available
+537754,"Black Currant, Grapefruit, Mango, Tropical Fruit"
+538506,Green
+539829,Floral
+543579,Not Available
+543664,Green
+543912,Not Available
+544628,Not Available
+545106,Savory
+547907,Savory
+548353,Savory
+549519,Dairy
+549546,Fruit
+549586,Fruit
+551084,Not Available
+551316,Fruit
+556940,Nuts
+556998,"Mint, Cool"
+557934,Not Available
+560109,Green
+560255,Fruit
+562563,Floral
+564550,Green
+565690,Fruit
+569214,Fruit
+570574,Fruit
+574068,Not Available
+576240,Fruit
+576263,Spice
+577126,"Floral, Grape"
+578423,Fruit
+578817,Nuts
+579336,Floral
+579338,Savory
+579675,Spice
+585911,Fruit
+589365,Floral
+595928,Floral
+605629,Floral
+636687,Green
+636822,Not Available
+637090,Dairy
+637195,Fruit
+637511,Spice
+637517,Not Available
+637520,"Balsamic, Strawberry"
+637563,Anise
+637564,Green
+637566,"Geranium, Lemon Peel, Passion Fruit, Peach, Rose"
+637758,"Balsamic, Cinnamon, Floral, Fruit, Honey"
+637759,"Creamy, Floral, Pungent"
+637776,Not Available
+637796,Not Available
+637920,Not Available
+638011,Lemon
+638014,"Floral, Violet"
+638024,Spice
+638034,Not Available
+638122,Savory
+638127,Not Available
+638500,"Floral, Green"
+641248,Green
+641256,Fruit
+641294,Fruit
+641298,Spice
+641423,Fruit
+642039,Fruit
+642117,Savory
+642376,Green
+642793,Peach
+642875,Not Available
+643139,"Grass, Green, Green Leaf"
+643460,Not Available
+643731,"Cucumber, Green, Wax"
+643757,Nuts
+643820,"Floral, Fruit"
+643941,Not Available
+656467,Green
+656582,Not Available
+673160,Dairy
+735940,Heat
+764139,Spice
+778574,"Balsamic, Fruit"
+853433,"Flower, Fragrant"
+876160,Floral
+929262,Floral
+1042025,Savory
+1201521,"Mint, Cool"
+1268142,Grapefruit
+1548943,Not Available
+1549018,Floral
+1549025,"Floral, Fruit"
+1549026,"Lavender, Rose"
+1549521,Green
+1549778,Fruit
+1550470,Fruit
+1550884,Floral
+1550890,Spice
+1616260,Boiled Apple
+1711945,Fruit
+1742210,"Herb, Must, Spice, Wood"
+1757003,Floral
+2733294,Green
+2733977,Savory
+2734646,Not Available
+2762759,Not Available
+3015979,Not Available
+3017596,Not Available
+3018221,Fruit
+3018500,Fruit
+3018539,Savory
+3018619,"Cooked Meat, Fat, Meat Broth, Tallow"
+3018771,Dairy
+3018936,Not Available
+3023838,Nuts
+3023839,Nuts
+3025939,Savory
+3033866,Floral
+3034034,Not Available
+3084571,Not Available
+3085213,Fruit
+3321360,Savory
+3354132,Fruit
+3486665,Floral
+3578033,Green
+3591866,Not Available
+3734338,Savory
+3782139,Green
+3853254,Not Available
+4047281,Fruit
+4120025,Savory
+4564493,Not Available
+4682590,Green
+4713080,Not Available
+5084146,Fruit
+5140436,Fruit
+5270647,Peach
+5273464,Balsamic
+5273465,Balsamic
+5273467,Floral
+5273469,Balsamic
+5275520,Green
+5280341,Not Available
+5280435,Flower
+5280450,Dairy
+5280598,"Mint, Cool"
+5280804,Not Available
+5281162,Pear
+5281163,Fruit
+5281167,"Grass, Green Fruit, Green Leaf, Herb, Unripe Banana"
+5281168,Not Available
+5281515,"Fried, Spice, Wood"
+5281516,"Boiled Vegetable, Floral, Wood"
+5281517,Not Available
+5281520,Not Available
+5281535,Orange Peel
+5281553,Floral
+5281929,Floral
+5282108,"Violet, Wood"
+5282109,Floral
+5282110,"Floral, Fruit, Honey"
+5282184,Not Available
+5282707,"Fat, Must"
+5282708,Fruit
+5282709,Savory
+5282714,Savory
+5282716,Dairy
+5282718,Dairy
+5282724,Fruit
+5282726,Fruit
+5282800,Not Available
+5283308,Green
+5283316,"Almond, Fat, Fruit"
+5283321,Not Available
+5283324,"Dandelion, Fat, Fruit, Grass, Green, Spice"
+5283329,"Cucumber, Fat, Green, Seaweed"
+5283335,Paper
+5283337,Fruit
+5283339,"Cereal, Deep Fried, Fat, Watermelon, Wet Wool"
+5283345,"Fat, Fish, Orange"
+5283349,"Coriander, Deep Fried, Fat, Oil, Oxidized"
+5283356,Not Available
+5283361,Fruit
+5283383,Not Available
+5284369,Not Available
+5284421,Dairy
+5284499,Savory
+5284503,Green
+5284507,"Fir, Linoleum, Pine"
+5311110,Not Available
+5312586,Dairy
+5315892,"Floral, Honey, Oil"
+5315941,Not Available
+5317045,Wet
+5317570,Not Available
+5318042,"Blue Cheese, Vegetable"
+5318517,Not Available
+5318599,Not Available
+5318734,Not Available
+5319706,Not Available
+5319754,Fruit
+5319765,Savory
+5320250,Not Available
+5320722,Savory
+5321950,Not Available
+5323650,Fruit
+5324489,"Fruit, Green, Green Fruit, Leaf, Wine"
+5338463,Not Available
+5352162,Floral
+5352428,Peach
+5352435,Fruit
+5352438,Not Available
+5352459,Fruit
+5352460,Fruit
+5352461,Fruit
+5352463,Fruit
+5352481,"Fruit, Wood"
+5352539,Fruit
+5352543,"Fruit, Prune"
+5352557,Fruit
+5352626,Fruit
+5352770,Fruit
+5352774,Fruit
+5352830,Floral
+5352836,Floral
+5352837,Green
+5352874,Floral
+5352876,Green
+5352905,Spice
+5352972,Fruit
+5352973,Green
+5352974,Fruit
+5353011,Floral
+5354238,Floral
+5354280,Not Available
+5354763,Not Available
+5354882,Green
+5354883,Fruit
+5355850,Fruit
+5355853,Floral
+5355855,Fruit
+5355856,"Apple , Fruit, Rose"
+5355858,Flower
+5357002,Floral
+5357153,Fruit
+5358336,Savory
+5362561,Fruit
+5362563,Nuts
+5362564,Savory
+5362565,Floral
+5362566,Fruit
+5362567,Fruit
+5362572,Savory
+5362579,Floral
+5362580,Fruit
+5362581,Floral
+5362583,Fruit
+5362584,Savory
+5362588,Savory
+5362591,Fruit
+5362592,Fruit
+5362593,Not Available
+5362594,Not Available
+5362595,Floral
+5362616,Not Available
+5362622,Fruit
+5362623,Fruit
+5362661,Floral
+5362696,Fruit
+5362720,Green
+5362782,Fruit
+5362792,Green
+5362798,Fruit
+5362814,Not Available
+5362819,Floral
+5362830,"Apple, Fruit, Rose"
+5363120,Fruit
+5363140,Fruit
+5363141,Fruit
+5363203,Fruit
+5363206,Fruit
+5363229,"Dull, Green, Nut, Rose"
+5363231,Fruit
+5363233,Savory
+5363269,Dairy
+5363289,Dairy
+5363291,Green
+5363388,"Banana, Candy, Floral, Green"
+5363491,Green
+5363526,Fruit
+5363537,Fruit
+5363741,Floral
+5363817,Floral
+5364231,Green
+5364399,Fruit
+5364409,Fruit
+5364438,Not Available
+5364519,"Dust, Toasted Nut"
+5364532,Fruit
+5364578,Fruit
+5364586,Savory
+5364631,"Floral, Green, Pungent"
+5364729,Fruit
+5364752,Not Available
+5364778,Fruit
+5364919,"Banana, Green, Rubber"
+5364941,Savory
+5364942,Fruit
+5365004,Floral
+5365027,Green
+5365049,Fruit
+5365069,Fruit
+5365136,Fruit
+5365587,Green
+5365706,Fish
+5365710,Not Available
+5365765,Not Available
+5365794,Fruit
+5365811,Fruit
+5365818,Fruit
+5365850,"Fruit, Rose"
+5365891,Savory
+5365909,Fruit
+5365916,Floral
+5365976,"Fruit, Pineapple"
+5365982,Fruit
+5365991,Fruit
+5365992,Floral
+5366038,Green
+5366044,Fruit
+5366074,Floral
+5366077,Floral@Fruit
+5366203,Fruit
+5366244,Flower
+5366264,Not Available
+5366352,Green
+5366552,Spice
+5366844,Fruit
+5367369,Not Available
+5367391,Not Available
+5367412,Green
+5367530,Fruit
+5367531,Savory
+5367536,Dairy
+5367679,Fruit
+5367681,Fruit
+5367682,Fruit
+5367698,Floral
+5367706,Floral
+5367745,Green
+5367752,Not Available
+5367767,Green
+5367785,Floral
+5367807,Floral
+5367848,Fruit
+5368076,Green
+5368103,Savory
+5368821,Not Available
+5369371,Green
+5369459,Plum
+5370101,Spice
+5370364,Not Available
+5370599,Honey
+5370602,Cocoa
+5370646,Fruit
+5371002,Floral
+5371084,Fruit
+5371802,Spice
+5372174,Floral
+5372353,Fruit
+5372813,Spice
+5373603,Green
+5373729,Floral
+5373780,Savory
+5374527,Boiled Apple
+5375218,Floral
+5382490,Spice
+5385520,Floral
+5388696,Spice
+5460291,Not Available
+5462986,Green
+5463175,Not Available
+5463238,Floral
+5463485,Fruit
+5463840,Fruit
+5463855,Fruit
+5463875,Green
+5463904,Fruit
+5463905,Fruit
+5463906,Green
+5463908,Fruit
+5463909,Green
+5463910,Floral
+5463911,Floral
+5463913,Floral
+5463914,Fruit
+5463935,Savory
+5463936,Green
+5463954,Fruit
+5484202,Not Available
+5742590,Not Available
+5791138,Not Available
+5797328,Floral
+5803450,Floral
+5916154,Fruit
+5956805,Fruit
+5986428,Fruit
+6005821,Green
+6008212,Spice
+6076971,Floral
+6086514,Fruit
+6114390,Beeswax
+6210220,Spice
+6232217,Fruit
+6284401,Spice
+6321405,"Camphor, Fragrant, Green, Polish@Camphor, Must"
+6329006,Not Available
+6364671,Green
+6365572,Fruit
+6365761,Green
+6366072,Not Available
+6366434,Not Available
+6385721,Spice
+6420258,Fruit
+6420388,"Pepper, Vinegar"
+6421281,Not Available
+6427076,Not Available
+6427087,Not Available
+6427135,Grapefruit
+6428535,Not Available
+6428543,Savory
+6428802,Nuts
+6428929,Not Available
+6428936,Savory
+6428938,Savory
+6428990,Savory
+6429039,Fruit
+6429195,Floral
+6429308,"Black Currant, Cat, Flower, Grapefruit, Lemon"
+6429333,"Cocoa, Roast, Rum"
+6430180,Fruit
+6430188,Fruit
+6430713,Savory
+6430754,Not Available
+6430759,Green
+6430833,Not Available
+6430878,"Cheese, Hazelnut, Onion, Pungent, Stinging Nettle"
+6430879,"Candy, Onion, Tropical Fruit"
+6430888,"Gravy, Leek, Meat Broth, Onion"
+6430892,"Hop, Leek, Meat, Onion, Pepper"
+6431015,Not Available
+6431148,Fruit
+6432005,Not Available
+6432469,"Mint, Cool"
+6433214,Spice
+6433715,Dairy
+6435826,Spice
+6435833,Fruit
+6435834,Green
+6435835,Heat
+6435838,Green
+6435839,Green
+6435841,Fruit
+6435861,Fruit
+6435866,Fruit
+6435869,Fruit
+6435876,Fruity
+6435882,Green
+6435903,Floral
+6435914,Cocoa
+6435925,Savory
+6436311,Fruit
+6436486,Fruit
+6436488,Savory
+6436624,Not Available
+6437002,Dairy
+6437428,Fruit
+6437467,Floral
+6437648,Fruit
+6450812,Not Available
+6450832,Not Available
+6451245,Not Available
+6536892,Not Available
+6536998,Not Available
+6537093,Spice
+6537492,Not Available
+6914062,Fruit
+6918391,Not Available
+6993580,"Earth, Must"
+9548706,Not Available
+9793905,Savory
+9793908,Fruit
+9810996,Not Available
+9833996,Savory
+9855795,"Citrus, Green, Oil, Wood"
+9898836,Fruit
+9964407,Spice
+10103158,Not Available
+10104370,Not Available
+10199055,"Mint, Cool"
+10219851,Not Available
+10255083,Not Available
+10398656,Not Available
+10608036,Not Available
+10725569,"Coconut, Deep Fried"
+10856614,Not Available
+10857465,Not Available
+10867438,Not Available
+10878761,Not Available
+10887828,Savory
+10920542,Not Available
+11041412,Not Available
+11084346,Green
+11094547,Savory
+11105826,Green
+11106485,Not Available
+11163251,Floral
+11210019,"Savory, Umami"
+11219061,"Mint, Cool"
+11221120,"Savory, Umami"
+11240503,Savory
+11264633,Not Available
+11309884,Savory
+11332852,Savory
+11413787,"Mint, Cool"
+11434978,Spice
+11469606,Savory
+11550267,Savory
+11586487,Not Available
+11586787,"Mint, Cool"
+11615984,Not Available
+11658617,Savory
+11673181,Not Available
+11739408,"Savory, Umami"
+11746218,Heat
+11815386,Not Available
+11830551,Not Available
+11830590,Fruit
+11949689,Not Available
+11962784,Fruit
+11969488,Fruit
+12009861,Savory
+12225100,Not Available
+12255414,Green
+12302243,Not Available
+12304610,"Mint, Cool"
+12315259,Floral
+12355469,Not Available
+12658395,Not Available
+12678469,Not Available
+12711594,Not Available
+12762300,Spice
+12833143,Nuts
+12914607,Fruit
+12980878,Spice
+12980879,Spice
+13026600,Fruit
+14030006,Not Available
+14344497,Floral
+14614417,Fruit
+14837639,Savory
+15461361,Fruit
+15540144,Spice
+15553243,Savory
+15743318,Savory
+15801179,Not Available
+15824502,Fruit
+15908632,Not Available
+16058296,Floral
+16129778,Not Available
+16204529,Not Available
+16204532,Green
+16205756,Floral
+16217806,Not Available
+16220080,Spice
+16220107,Not Available
+16220110,Green
+16734862,"Mint, Cool"
+18185507,Savory
+18645216,Not Available
+19857768,Fruit
+19872333,Fruit
+20158044,Savory
+20381858,Green
+20442793,Savory
+20831806,Fruit
+20831821,Savory
+20836326,Fruit
+20838599,Fruit
+21116845,Not Available
+21118466,"Mint, Cool"
+21159448,Fruit
+21160126,Not Available
+21587486,Not Available
+21675005,Not Available
+21842493,Not Available
+21918450,Dairy
+21972054,Fruit
+22034852,"Apricot, Fruit, Peach, Pineapple"
+22182954,Not Available
+22235151,Green
+22251515,Savory
+22757845,Fruit
+22831877,"Savory, Umami"
+23039305,Nuts
+23623724,Floral
+23623868,"Camphor, Earth, Green"
+23662384,Not Available
+23665706,Not Available
+23669636,Spice
+23670519,Not Available
+23672308,Not Available
+23673663,Not Available
+23674992,Not Available
+23676745,Not Available
+24752885,"Mint, Cool"
+24832089,Savory
+24847851,Fruit
+24847856,Not Available
+29933357,Nuts
+44134661,Not Available
+44153717,Fruit
+44182035,Nuts
+46779070,Savory
+46941523,Savory
+53338773,Nuts
+53422473,Fruit
+53423642,Floral
+53424302,Nuts
+53424808,Not Available
+53425122,"Roasted, Rubber"
+53426546,Not Available
+53435896,Fruit
+53472027,Not Available
+54048924,Savory
+54670067,Not Available
+54675810,Not Available
+56842518,Not Available
+56843050,Savory
+56844155,Not Available
+57320331,Savory
+57346909,Not Available
+57350395,Savory
+57353601,Not Available
+57355543,Green
+57358374,Floral
+57370186,Savory
+57509241,Savory
+68968644,Dairy
+71571511,Not Available
+71586808,Fruit
+71586811,Not Available
+71586903,Savory
+71587038,Grapefruit
+71587178,Fruit
+71587277,Not Available
+71587638,Fruit
+71587802,Savory
+71587849,Not Available
+73456809,Savory
+73557527,Floral
+76319594,Not Available
+91865027,Not Available
+92043553,Not Available
+92043681,Dairy
+101655828,Nuts
+118855872,Dairy

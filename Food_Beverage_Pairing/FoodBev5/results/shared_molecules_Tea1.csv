@@ -1,0 +1,901 @@
+Recipe ID,Recipe Name,shared_molecule_Compound_ID,Compound_CAS_Number
+R000001,Chicken Tikka Masala,384,116-53-0
+R000001,Chicken Tikka Masala,34,1192-62-7
+R000001,Chicken Tikka Masala,645,505-57-7
+R000001,Chicken Tikka Masala,586,78-70-6
+R000001,Chicken Tikka Masala,235,66-25-1
+R000001,Chicken Tikka Masala,556,123-32-0
+R000001,Chicken Tikka Masala,338,98-00-0
+R000001,Chicken Tikka Masala,786,616-25-1
+R000001,Chicken Tikka Masala,761,928-96-1
+R000001,Chicken Tikka Masala,90,89-78-1
+R000001,Chicken Tikka Masala,798,111-27-3
+R000001,Chicken Tikka Masala,703,98-01-1
+R000002,Black Peas,384,116-53-0
+R000002,Black Peas,645,505-57-7
+R000002,Black Peas,586,78-70-6
+R000002,Black Peas,235,66-25-1
+R000002,Black Peas,556,123-32-0
+R000002,Black Peas,338,98-00-0
+R000002,Black Peas,786,616-25-1
+R000002,Black Peas,761,928-96-1
+R000002,Black Peas,798,111-27-3
+R000002,Black Peas,703,98-01-1
+R000003,Bangers and mash,384,116-53-0
+R000003,Bangers and mash,645,505-57-7
+R000003,Bangers and mash,586,78-70-6
+R000003,Bangers and mash,235,66-25-1
+R000003,Bangers and mash,556,123-32-0
+R000003,Bangers and mash,338,98-00-0
+R000003,Bangers and mash,786,616-25-1
+R000003,Bangers and mash,761,928-96-1
+R000003,Bangers and mash,798,111-27-3
+R000003,Bangers and mash,703,98-01-1
+R000004,Bubble and Squeak,384,116-53-0
+R000004,Bubble and Squeak,645,505-57-7
+R000004,Bubble and Squeak,586,78-70-6
+R000004,Bubble and Squeak,235,66-25-1
+R000004,Bubble and Squeak,556,123-32-0
+R000004,Bubble and Squeak,786,616-25-1
+R000004,Bubble and Squeak,761,928-96-1
+R000004,Bubble and Squeak,90,89-78-1
+R000004,Bubble and Squeak,798,111-27-3
+R000004,Bubble and Squeak,703,98-01-1
+R000005,Fish and Chips,384,116-53-0
+R000005,Fish and Chips,645,505-57-7
+R000005,Fish and Chips,586,78-70-6
+R000005,Fish and Chips,556,123-32-0
+R000005,Fish and Chips,338,98-00-0
+R000005,Fish and Chips,786,616-25-1
+R000005,Fish and Chips,90,89-78-1
+R000005,Fish and Chips,798,111-27-3
+R000005,Fish and Chips,703,98-01-1
+R000006,Welsh Rarebit,384,116-53-0
+R000006,Welsh Rarebit,645,505-57-7
+R000006,Welsh Rarebit,556,123-32-0
+R000006,Welsh Rarebit,338,98-00-0
+R000006,Welsh Rarebit,786,616-25-1
+R000006,Welsh Rarebit,761,928-96-1
+R000006,Welsh Rarebit,798,111-27-3
+R000007,Yorkshire Pudding,645,505-57-7
+R000007,Yorkshire Pudding,556,123-32-0
+R000007,Yorkshire Pudding,338,98-00-0
+R000007,Yorkshire Pudding,786,616-25-1
+R000007,Yorkshire Pudding,90,89-78-1
+R000007,Yorkshire Pudding,798,111-27-3
+R000008,Banoffee Pie,645,505-57-7
+R000008,Banoffee Pie,586,78-70-6
+R000008,Banoffee Pie,235,66-25-1
+R000008,Banoffee Pie,556,123-32-0
+R000008,Banoffee Pie,786,616-25-1
+R000008,Banoffee Pie,338,98-00-0
+R000008,Banoffee Pie,761,928-96-1
+R000008,Banoffee Pie,798,111-27-3
+R000009,Battenburg Cake,384,116-53-0
+R000009,Battenburg Cake,645,505-57-7
+R000009,Battenburg Cake,586,78-70-6
+R000009,Battenburg Cake,235,66-25-1
+R000009,Battenburg Cake,556,123-32-0
+R000009,Battenburg Cake,338,98-00-0
+R000009,Battenburg Cake,786,616-25-1
+R000009,Battenburg Cake,761,928-96-1
+R000009,Battenburg Cake,90,89-78-1
+R000009,Battenburg Cake,798,111-27-3
+R000009,Battenburg Cake,703,98-01-1
+R0000010,Bread and Butter Pudding,645,505-57-7
+R0000010,Bread and Butter Pudding,586,78-70-6
+R0000010,Bread and Butter Pudding,235,66-25-1
+R0000010,Bread and Butter Pudding,556,123-32-0
+R0000010,Bread and Butter Pudding,338,98-00-0
+R0000010,Bread and Butter Pudding,786,616-25-1
+R0000010,Bread and Butter Pudding,630,71-41-0
+R0000010,Bread and Butter Pudding,761,928-96-1
+R0000010,Bread and Butter Pudding,90,89-78-1
+R0000010,Bread and Butter Pudding,798,111-27-3
+R0000010,Bread and Butter Pudding,703,98-01-1
+R0000011,Toad-in-the-Hole,645,505-57-7
+R0000011,Toad-in-the-Hole,556,123-32-0
+R0000011,Toad-in-the-Hole,338,98-00-0
+R0000011,Toad-in-the-Hole,786,616-25-1
+R0000011,Toad-in-the-Hole,90,89-78-1
+R0000011,Toad-in-the-Hole,798,111-27-3
+R0000012,Pork & apple sauce,384,116-53-0
+R0000012,Pork & apple sauce,645,505-57-7
+R0000012,Pork & apple sauce,586,78-70-6
+R0000012,Pork & apple sauce,235,66-25-1
+R0000012,Pork & apple sauce,338,98-00-0
+R0000012,Pork & apple sauce,786,616-25-1
+R0000012,Pork & apple sauce,630,71-41-0
+R0000012,Pork & apple sauce,761,928-96-1
+R0000012,Pork & apple sauce,90,89-78-1
+R0000012,Pork & apple sauce,798,111-27-3
+R0000012,Pork & apple sauce,703,98-01-1
+R0000013,Victoria Sponge Cake,645,505-57-7
+R0000013,Victoria Sponge Cake,556,123-32-0
+R0000013,Victoria Sponge Cake,338,98-00-0
+R0000013,Victoria Sponge Cake,786,616-25-1
+R0000013,Victoria Sponge Cake,761,928-96-1
+R0000013,Victoria Sponge Cake,90,89-78-1
+R0000013,Victoria Sponge Cake,798,111-27-3
+R0000014,Shephard's Pie,384,116-53-0
+R0000014,Shephard's Pie,645,505-57-7
+R0000014,Shephard's Pie,586,78-70-6
+R0000014,Shephard's Pie,235,66-25-1
+R0000014,Shephard's Pie,556,123-32-0
+R0000014,Shephard's Pie,338,98-00-0
+R0000014,Shephard's Pie,786,616-25-1
+R0000014,Shephard's Pie,761,928-96-1
+R0000014,Shephard's Pie,798,111-27-3
+R0000014,Shephard's Pie,703,98-01-1
+R0000015,Cumberland sausage,384,116-53-0
+R0000015,Cumberland sausage,34,1192-62-7
+R0000015,Cumberland sausage,645,505-57-7
+R0000015,Cumberland sausage,586,78-70-6
+R0000015,Cumberland sausage,235,66-25-1
+R0000015,Cumberland sausage,556,123-32-0
+R0000015,Cumberland sausage,338,98-00-0
+R0000015,Cumberland sausage,786,616-25-1
+R0000015,Cumberland sausage,761,928-96-1
+R0000015,Cumberland sausage,798,111-27-3
+R0000015,Cumberland sausage,703,98-01-1
+R0000016,Cottage Pie,384,116-53-0
+R0000016,Cottage Pie,645,505-57-7
+R0000016,Cottage Pie,586,78-70-6
+R0000016,Cottage Pie,556,123-32-0
+R0000016,Cottage Pie,338,98-00-0
+R0000016,Cottage Pie,786,616-25-1
+R0000016,Cottage Pie,761,928-96-1
+R0000016,Cottage Pie,90,89-78-1
+R0000016,Cottage Pie,798,111-27-3
+R0000016,Cottage Pie,703,98-01-1
+R0000017,Pork Pie,384,116-53-0
+R0000017,Pork Pie,645,505-57-7
+R0000017,Pork Pie,586,78-70-6
+R0000017,Pork Pie,556,123-32-0
+R0000017,Pork Pie,338,98-00-0
+R0000017,Pork Pie,786,616-25-1
+R0000017,Pork Pie,90,89-78-1
+R0000017,Pork Pie,798,111-27-3
+R0000017,Pork Pie,703,98-01-1
+R0000018,Eton Mess,384,116-53-0
+R0000018,Eton Mess,645,505-57-7
+R0000018,Eton Mess,586,78-70-6
+R0000018,Eton Mess,235,66-25-1
+R0000018,Eton Mess,556,123-32-0
+R0000018,Eton Mess,786,616-25-1
+R0000018,Eton Mess,761,928-96-1
+R0000018,Eton Mess,798,111-27-3
+R0000018,Eton Mess,703,98-01-1
+R0000020,Crumpets,384,116-53-0
+R0000020,Crumpets,1377,34995-77-2
+R0000020,Crumpets,34,1192-62-7
+R0000020,Crumpets,645,505-57-7
+R0000020,Crumpets,586,78-70-6
+R0000020,Crumpets,235,66-25-1
+R0000020,Crumpets,556,123-32-0
+R0000020,Crumpets,338,98-00-0
+R0000020,Crumpets,1070,100-52-7
+R0000020,Crumpets,786,616-25-1
+R0000020,Crumpets,630,71-41-0
+R0000020,Crumpets,761,928-96-1
+R0000020,Crumpets,90,89-78-1
+R0000020,Crumpets,798,111-27-3
+R0000020,Crumpets,703,98-01-1
+R0000021,Piccalilli,384,116-53-0
+R0000021,Piccalilli,645,505-57-7
+R0000021,Piccalilli,586,78-70-6
+R0000021,Piccalilli,235,66-25-1
+R0000021,Piccalilli,556,123-32-0
+R0000021,Piccalilli,338,98-00-0
+R0000021,Piccalilli,786,616-25-1
+R0000021,Piccalilli,630,71-41-0
+R0000021,Piccalilli,761,928-96-1
+R0000021,Piccalilli,90,89-78-1
+R0000021,Piccalilli,798,111-27-3
+R0000021,Piccalilli,703,98-01-1
+R0000022,Berry Trifle,384,116-53-0
+R0000022,Berry Trifle,34,1192-62-7
+R0000022,Berry Trifle,645,505-57-7
+R0000022,Berry Trifle,586,78-70-6
+R0000022,Berry Trifle,235,66-25-1
+R0000022,Berry Trifle,786,616-25-1
+R0000022,Berry Trifle,630,71-41-0
+R0000022,Berry Trifle,761,928-96-1
+R0000022,Berry Trifle,798,111-27-3
+R0000022,Berry Trifle,703,98-01-1
+R0000023,Slotty Clake,384,116-53-0
+R0000023,Slotty Clake,645,505-57-7
+R0000023,Slotty Clake,586,78-70-6
+R0000023,Slotty Clake,235,66-25-1
+R0000023,Slotty Clake,556,123-32-0
+R0000023,Slotty Clake,786,616-25-1
+R0000023,Slotty Clake,761,928-96-1
+R0000023,Slotty Clake,798,111-27-3
+R0000023,Slotty Clake,703,98-01-1
+R0000024,Boiled ham with pease pudding,761,928-96-1
+R0000024,Boiled ham with pease pudding,338,98-00-0
+R0000024,Boiled ham with pease pudding,556,123-32-0
+R0000024,Boiled ham with pease pudding,645,505-57-7
+R0000024,Boiled ham with pease pudding,798,111-27-3
+R0000025,British Scones,384,116-53-0
+R0000025,British Scones,645,505-57-7
+R0000025,British Scones,586,78-70-6
+R0000025,British Scones,235,66-25-1
+R0000025,British Scones,556,123-32-0
+R0000025,British Scones,786,616-25-1
+R0000025,British Scones,761,928-96-1
+R0000025,British Scones,90,89-78-1
+R0000025,British Scones,798,111-27-3
+R0000025,British Scones,703,98-01-1
+R0000026,Mushy Peas,645,505-57-7
+R0000026,Mushy Peas,556,123-32-0
+R0000026,Mushy Peas,338,98-00-0
+R0000026,Mushy Peas,786,616-25-1
+R0000026,Mushy Peas,761,928-96-1
+R0000026,Mushy Peas,798,111-27-3
+R0000027,Lancashire Hot Pot,645,505-57-7
+R0000027,Lancashire Hot Pot,586,78-70-6
+R0000027,Lancashire Hot Pot,556,123-32-0
+R0000027,Lancashire Hot Pot,786,616-25-1
+R0000027,Lancashire Hot Pot,761,928-96-1
+R0000027,Lancashire Hot Pot,798,111-27-3
+R0000028,Cawl (Traditional Welsh Broth),384,116-53-0
+R0000028,Cawl (Traditional Welsh Broth),645,505-57-7
+R0000028,Cawl (Traditional Welsh Broth),586,78-70-6
+R0000028,Cawl (Traditional Welsh Broth),235,66-25-1
+R0000028,Cawl (Traditional Welsh Broth),556,123-32-0
+R0000028,Cawl (Traditional Welsh Broth),786,616-25-1
+R0000028,Cawl (Traditional Welsh Broth),761,928-96-1
+R0000028,Cawl (Traditional Welsh Broth),798,111-27-3
+R0000028,Cawl (Traditional Welsh Broth),703,98-01-1
+R0000029,Eccles Cakes,384,116-53-0
+R0000029,Eccles Cakes,645,505-57-7
+R0000029,Eccles Cakes,586,78-70-6
+R0000029,Eccles Cakes,235,66-25-1
+R0000029,Eccles Cakes,556,123-32-0
+R0000029,Eccles Cakes,338,98-00-0
+R0000029,Eccles Cakes,786,616-25-1
+R0000029,Eccles Cakes,761,928-96-1
+R0000029,Eccles Cakes,90,89-78-1
+R0000029,Eccles Cakes,798,111-27-3
+R0000029,Eccles Cakes,703,98-01-1
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,384,116-53-0
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,645,505-57-7
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,586,78-70-6
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,235,66-25-1
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,556,123-32-0
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,338,98-00-0
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,786,616-25-1
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,761,928-96-1
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,90,89-78-1
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,798,111-27-3
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,703,98-01-1
+R0000031,Lamb Cobbler,645,505-57-7
+R0000031,Lamb Cobbler,556,123-32-0
+R0000031,Lamb Cobbler,786,616-25-1
+R0000031,Lamb Cobbler,761,928-96-1
+R0000031,Lamb Cobbler,90,89-78-1
+R0000031,Lamb Cobbler,798,111-27-3
+R0000032,Sticky toffee pudding,384,116-53-0
+R0000032,Sticky toffee pudding,645,505-57-7
+R0000032,Sticky toffee pudding,586,78-70-6
+R0000032,Sticky toffee pudding,235,66-25-1
+R0000032,Sticky toffee pudding,556,123-32-0
+R0000032,Sticky toffee pudding,338,98-00-0
+R0000032,Sticky toffee pudding,786,616-25-1
+R0000032,Sticky toffee pudding,761,928-96-1
+R0000032,Sticky toffee pudding,798,111-27-3
+R0000032,Sticky toffee pudding,703,98-01-1
+R0000033,Summer Pudding,645,505-57-7
+R0000033,Summer Pudding,586,78-70-6
+R0000033,Summer Pudding,556,123-32-0
+R0000033,Summer Pudding,786,616-25-1
+R0000033,Summer Pudding,761,928-96-1
+R0000033,Summer Pudding,90,89-78-1
+R0000033,Summer Pudding,798,111-27-3
+R0000033,Summer Pudding,703,98-01-1
+R0000034,Pound Cake,384,116-53-0
+R0000034,Pound Cake,645,505-57-7
+R0000034,Pound Cake,586,78-70-6
+R0000034,Pound Cake,235,66-25-1
+R0000034,Pound Cake,556,123-32-0
+R0000034,Pound Cake,786,616-25-1
+R0000034,Pound Cake,630,71-41-0
+R0000034,Pound Cake,761,928-96-1
+R0000034,Pound Cake,798,111-27-3
+R0000034,Pound Cake,703,98-01-1
+R0000035,Roast beef with caramelised onion gravy,645,505-57-7
+R0000035,Roast beef with caramelised onion gravy,586,78-70-6
+R0000035,Roast beef with caramelised onion gravy,235,66-25-1
+R0000035,Roast beef with caramelised onion gravy,556,123-32-0
+R0000035,Roast beef with caramelised onion gravy,786,616-25-1
+R0000035,Roast beef with caramelised onion gravy,761,928-96-1
+R0000035,Roast beef with caramelised onion gravy,90,89-78-1
+R0000035,Roast beef with caramelised onion gravy,798,111-27-3
+R0000035,Roast beef with caramelised onion gravy,703,98-01-1
+R0000036,Roast lamb with spring herb crumbs,645,505-57-7
+R0000036,Roast lamb with spring herb crumbs,235,66-25-1
+R0000036,Roast lamb with spring herb crumbs,556,123-32-0
+R0000036,Roast lamb with spring herb crumbs,338,98-00-0
+R0000036,Roast lamb with spring herb crumbs,786,616-25-1
+R0000036,Roast lamb with spring herb crumbs,761,928-96-1
+R0000036,Roast lamb with spring herb crumbs,798,111-27-3
+R0000036,Roast lamb with spring herb crumbs,703,98-01-1
+R0000037,Full English breakfast,645,505-57-7
+R0000037,Full English breakfast,586,78-70-6
+R0000037,Full English breakfast,235,66-25-1
+R0000037,Full English breakfast,556,123-32-0
+R0000037,Full English breakfast,786,616-25-1
+R0000037,Full English breakfast,761,928-96-1
+R0000037,Full English breakfast,798,111-27-3
+R0000037,Full English breakfast,703,98-01-1
+R0000038,Lemon syllabub,384,116-53-0
+R0000038,Lemon syllabub,34,1192-62-7
+R0000038,Lemon syllabub,645,505-57-7
+R0000038,Lemon syllabub,586,78-70-6
+R0000038,Lemon syllabub,235,66-25-1
+R0000038,Lemon syllabub,556,123-32-0
+R0000038,Lemon syllabub,338,98-00-0
+R0000038,Lemon syllabub,786,616-25-1
+R0000038,Lemon syllabub,630,71-41-0
+R0000038,Lemon syllabub,761,928-96-1
+R0000038,Lemon syllabub,90,89-78-1
+R0000038,Lemon syllabub,798,111-27-3
+R0000038,Lemon syllabub,703,98-01-1
+R0000039,Treacle Tart,645,505-57-7
+R0000039,Treacle Tart,586,78-70-6
+R0000039,Treacle Tart,235,66-25-1
+R0000039,Treacle Tart,556,123-32-0
+R0000039,Treacle Tart,338,98-00-0
+R0000039,Treacle Tart,761,928-96-1
+R0000039,Treacle Tart,798,111-27-3
+R0000039,Treacle Tart,703,98-01-1
+R0000040,Potted Shrimps,645,505-57-7
+R0000040,Potted Shrimps,586,78-70-6
+R0000040,Potted Shrimps,235,66-25-1
+R0000040,Potted Shrimps,556,123-32-0
+R0000040,Potted Shrimps,338,98-00-0
+R0000040,Potted Shrimps,761,928-96-1
+R0000040,Potted Shrimps,90,89-78-1
+R0000040,Potted Shrimps,798,111-27-3
+R0000040,Potted Shrimps,703,98-01-1
+R0000041,Scouse,384,116-53-0
+R0000041,Scouse,645,505-57-7
+R0000041,Scouse,586,78-70-6
+R0000041,Scouse,235,66-25-1
+R0000041,Scouse,556,123-32-0
+R0000041,Scouse,338,98-00-0
+R0000041,Scouse,786,616-25-1
+R0000041,Scouse,630,71-41-0
+R0000041,Scouse,761,928-96-1
+R0000041,Scouse,90,89-78-1
+R0000041,Scouse,798,111-27-3
+R0000041,Scouse,703,98-01-1
+R0000042,Mince pies,645,505-57-7
+R0000042,Mince pies,586,78-70-6
+R0000042,Mince pies,235,66-25-1
+R0000042,Mince pies,556,123-32-0
+R0000042,Mince pies,338,98-00-0
+R0000042,Mince pies,761,928-96-1
+R0000042,Mince pies,798,111-27-3
+R0000042,Mince pies,703,98-01-1
+R0000043,Queen Of Puddings,384,116-53-0
+R0000043,Queen Of Puddings,34,1192-62-7
+R0000043,Queen Of Puddings,645,505-57-7
+R0000043,Queen Of Puddings,586,78-70-6
+R0000043,Queen Of Puddings,235,66-25-1
+R0000043,Queen Of Puddings,556,123-32-0
+R0000043,Queen Of Puddings,338,98-00-0
+R0000043,Queen Of Puddings,786,616-25-1
+R0000043,Queen Of Puddings,761,928-96-1
+R0000043,Queen Of Puddings,90,89-78-1
+R0000043,Queen Of Puddings,798,111-27-3
+R0000043,Queen Of Puddings,703,98-01-1
+R0000044,Beef Pasties,645,505-57-7
+R0000044,Beef Pasties,586,78-70-6
+R0000044,Beef Pasties,235,66-25-1
+R0000044,Beef Pasties,556,123-32-0
+R0000044,Beef Pasties,786,616-25-1
+R0000044,Beef Pasties,761,928-96-1
+R0000044,Beef Pasties,798,111-27-3
+R0000044,Beef Pasties,703,98-01-1
+R0000045,Steamed Lemon Pudding with Treacle Sauce,384,116-53-0
+R0000045,Steamed Lemon Pudding with Treacle Sauce,645,505-57-7
+R0000045,Steamed Lemon Pudding with Treacle Sauce,586,78-70-6
+R0000045,Steamed Lemon Pudding with Treacle Sauce,235,66-25-1
+R0000045,Steamed Lemon Pudding with Treacle Sauce,556,123-32-0
+R0000045,Steamed Lemon Pudding with Treacle Sauce,338,98-00-0
+R0000045,Steamed Lemon Pudding with Treacle Sauce,786,616-25-1
+R0000045,Steamed Lemon Pudding with Treacle Sauce,761,928-96-1
+R0000045,Steamed Lemon Pudding with Treacle Sauce,90,89-78-1
+R0000045,Steamed Lemon Pudding with Treacle Sauce,798,111-27-3
+R0000045,Steamed Lemon Pudding with Treacle Sauce,703,98-01-1
+R0000046,Spotted dick with lemon syrup,384,116-53-0
+R0000046,Spotted dick with lemon syrup,645,505-57-7
+R0000046,Spotted dick with lemon syrup,586,78-70-6
+R0000046,Spotted dick with lemon syrup,235,66-25-1
+R0000046,Spotted dick with lemon syrup,556,123-32-0
+R0000046,Spotted dick with lemon syrup,338,98-00-0
+R0000046,Spotted dick with lemon syrup,786,616-25-1
+R0000046,Spotted dick with lemon syrup,761,928-96-1
+R0000046,Spotted dick with lemon syrup,90,89-78-1
+R0000046,Spotted dick with lemon syrup,798,111-27-3
+R0000046,Spotted dick with lemon syrup,703,98-01-1
+R0000047,Fifteens,645,505-57-7
+R0000047,Fifteens,235,66-25-1
+R0000047,Fifteens,556,123-32-0
+R0000047,Fifteens,338,98-00-0
+R0000047,Fifteens,761,928-96-1
+R0000047,Fifteens,798,111-27-3
+R0000048,Plain Madeira Cake,645,505-57-7
+R0000048,Plain Madeira Cake,556,123-32-0
+R0000048,Plain Madeira Cake,338,98-00-0
+R0000048,Plain Madeira Cake,786,616-25-1
+R0000048,Plain Madeira Cake,761,928-96-1
+R0000048,Plain Madeira Cake,90,89-78-1
+R0000048,Plain Madeira Cake,798,111-27-3
+R0000049,Classic bread and butter pudding,384,116-53-0
+R0000049,Classic bread and butter pudding,645,505-57-7
+R0000049,Classic bread and butter pudding,586,78-70-6
+R0000049,Classic bread and butter pudding,235,66-25-1
+R0000049,Classic bread and butter pudding,556,123-32-0
+R0000049,Classic bread and butter pudding,338,98-00-0
+R0000049,Classic bread and butter pudding,786,616-25-1
+R0000049,Classic bread and butter pudding,761,928-96-1
+R0000049,Classic bread and butter pudding,90,89-78-1
+R0000049,Classic bread and butter pudding,798,111-27-3
+R0000049,Classic bread and butter pudding,703,98-01-1
+R0000050,Swiss Roll ,384,116-53-0
+R0000050,Swiss Roll ,645,505-57-7
+R0000050,Swiss Roll ,586,78-70-6
+R0000050,Swiss Roll ,235,66-25-1
+R0000050,Swiss Roll ,556,123-32-0
+R0000050,Swiss Roll ,786,616-25-1
+R0000050,Swiss Roll ,761,928-96-1
+R0000050,Swiss Roll ,90,89-78-1
+R0000050,Swiss Roll ,798,111-27-3
+R0000050,Swiss Roll ,703,98-01-1
+R0000051,Liver and Onions,384,116-53-0
+R0000051,Liver and Onions,34,1192-62-7
+R0000051,Liver and Onions,645,505-57-7
+R0000051,Liver and Onions,586,78-70-6
+R0000051,Liver and Onions,235,66-25-1
+R0000051,Liver and Onions,556,123-32-0
+R0000051,Liver and Onions,786,616-25-1
+R0000051,Liver and Onions,761,928-96-1
+R0000051,Liver and Onions,798,111-27-3
+R0000051,Liver and Onions,703,98-01-1
+R0000052,wild rabbit stew,645,505-57-7
+R0000052,wild rabbit stew,235,66-25-1
+R0000052,wild rabbit stew,556,123-32-0
+R0000052,wild rabbit stew,338,98-00-0
+R0000052,wild rabbit stew,786,616-25-1
+R0000052,wild rabbit stew,761,928-96-1
+R0000052,wild rabbit stew,798,111-27-3
+R0000052,wild rabbit stew,703,98-01-1
+R0000053,bath buns,645,505-57-7
+R0000053,bath buns,556,123-32-0
+R0000053,bath buns,338,98-00-0
+R0000053,bath buns,786,616-25-1
+R0000053,bath buns,761,928-96-1
+R0000053,bath buns,90,89-78-1
+R0000053,bath buns,798,111-27-3
+R0000054,Chocolate battenberg,384,116-53-0
+R0000054,Chocolate battenberg,645,505-57-7
+R0000054,Chocolate battenberg,586,78-70-6
+R0000054,Chocolate battenberg,235,66-25-1
+R0000054,Chocolate battenberg,556,123-32-0
+R0000054,Chocolate battenberg,338,98-00-0
+R0000054,Chocolate battenberg,786,616-25-1
+R0000054,Chocolate battenberg,761,928-96-1
+R0000054,Chocolate battenberg,90,89-78-1
+R0000054,Chocolate battenberg,798,111-27-3
+R0000054,Chocolate battenberg,703,98-01-1
+R0000055,Potted crab with asparagus,645,505-57-7
+R0000055,Potted crab with asparagus,586,78-70-6
+R0000055,Potted crab with asparagus,235,66-25-1
+R0000055,Potted crab with asparagus,556,123-32-0
+R0000055,Potted crab with asparagus,786,616-25-1
+R0000055,Potted crab with asparagus,761,928-96-1
+R0000055,Potted crab with asparagus,90,89-78-1
+R0000055,Potted crab with asparagus,798,111-27-3
+R0000055,Potted crab with asparagus,703,98-01-1
+R0000056,branbury cakes,384,116-53-0
+R0000056,branbury cakes,645,505-57-7
+R0000056,branbury cakes,586,78-70-6
+R0000056,branbury cakes,235,66-25-1
+R0000056,branbury cakes,556,123-32-0
+R0000056,branbury cakes,338,98-00-0
+R0000056,branbury cakes,786,616-25-1
+R0000056,branbury cakes,630,71-41-0
+R0000056,branbury cakes,761,928-96-1
+R0000056,branbury cakes,90,89-78-1
+R0000056,branbury cakes,798,111-27-3
+R0000056,branbury cakes,703,98-01-1
+R0000057,brown shrimps on toast,761,928-96-1
+R0000057,brown shrimps on toast,556,123-32-0
+R0000057,brown shrimps on toast,645,505-57-7
+R0000057,brown shrimps on toast,798,111-27-3
+R0000058,cambridge burnt cream,645,505-57-7
+R0000058,cambridge burnt cream,556,123-32-0
+R0000058,cambridge burnt cream,338,98-00-0
+R0000058,cambridge burnt cream,786,616-25-1
+R0000058,cambridge burnt cream,90,89-78-1
+R0000058,cambridge burnt cream,798,111-27-3
+R0000059,Wholegrain mustard,384,116-53-0
+R0000059,Wholegrain mustard,338,98-00-0
+R0000059,Wholegrain mustard,786,616-25-1
+R0000059,Wholegrain mustard,630,71-41-0
+R0000059,Wholegrain mustard,761,928-96-1
+R0000059,Wholegrain mustard,90,89-78-1
+R0000059,Wholegrain mustard,798,111-27-3
+R0000060,onion gravy,384,116-53-0
+R0000060,onion gravy,645,505-57-7
+R0000060,onion gravy,235,66-25-1
+R0000060,onion gravy,556,123-32-0
+R0000060,onion gravy,338,98-00-0
+R0000060,onion gravy,786,616-25-1
+R0000060,onion gravy,761,928-96-1
+R0000060,onion gravy,798,111-27-3
+R0000060,onion gravy,703,98-01-1
+R0000061,Beef trencher,645,505-57-7
+R0000061,Beef trencher,235,66-25-1
+R0000061,Beef trencher,556,123-32-0
+R0000061,Beef trencher,338,98-00-0
+R0000061,Beef trencher,786,616-25-1
+R0000061,Beef trencher,761,928-96-1
+R0000061,Beef trencher,798,111-27-3
+R0000061,Beef trencher,703,98-01-1
+R0000062,Pea and ham soup,645,505-57-7
+R0000062,Pea and ham soup,586,78-70-6
+R0000062,Pea and ham soup,235,66-25-1
+R0000062,Pea and ham soup,556,123-32-0
+R0000062,Pea and ham soup,786,616-25-1
+R0000062,Pea and ham soup,761,928-96-1
+R0000062,Pea and ham soup,703,98-01-1
+R0000063,Apple Crumble,761,928-96-1
+R0000063,Apple Crumble,556,123-32-0
+R0000063,Apple Crumble,645,505-57-7
+R0000063,Apple Crumble,798,111-27-3
+R0000064,Turkey Wellingtons,384,116-53-0
+R0000064,Turkey Wellingtons,645,505-57-7
+R0000064,Turkey Wellingtons,235,66-25-1
+R0000064,Turkey Wellingtons,556,123-32-0
+R0000064,Turkey Wellingtons,338,98-00-0
+R0000064,Turkey Wellingtons,1070,100-52-7
+R0000064,Turkey Wellingtons,786,616-25-1
+R0000064,Turkey Wellingtons,1401,928-95-0
+R0000064,Turkey Wellingtons,761,928-96-1
+R0000064,Turkey Wellingtons,798,111-27-3
+R0000065,British simnel cakes,384,116-53-0
+R0000065,British simnel cakes,645,505-57-7
+R0000065,British simnel cakes,586,78-70-6
+R0000065,British simnel cakes,235,66-25-1
+R0000065,British simnel cakes,556,123-32-0
+R0000065,British simnel cakes,338,98-00-0
+R0000065,British simnel cakes,786,616-25-1
+R0000065,British simnel cakes,630,71-41-0
+R0000065,British simnel cakes,761,928-96-1
+R0000065,British simnel cakes,90,89-78-1
+R0000065,British simnel cakes,798,111-27-3
+R0000065,British simnel cakes,703,98-01-1
+R0000066,Easy Devonshire Cream,384,116-53-0
+R0000066,Easy Devonshire Cream,338,98-00-0
+R0000066,Easy Devonshire Cream,556,123-32-0
+R0000066,Easy Devonshire Cream,798,111-27-3
+R0000067,Irish Bacon and Cabbage Soup,384,116-53-0
+R0000067,Irish Bacon and Cabbage Soup,34,1192-62-7
+R0000067,Irish Bacon and Cabbage Soup,645,505-57-7
+R0000067,Irish Bacon and Cabbage Soup,586,78-70-6
+R0000067,Irish Bacon and Cabbage Soup,235,66-25-1
+R0000067,Irish Bacon and Cabbage Soup,556,123-32-0
+R0000067,Irish Bacon and Cabbage Soup,786,616-25-1
+R0000067,Irish Bacon and Cabbage Soup,761,928-96-1
+R0000067,Irish Bacon and Cabbage Soup,90,89-78-1
+R0000067,Irish Bacon and Cabbage Soup,798,111-27-3
+R0000067,Irish Bacon and Cabbage Soup,703,98-01-1
+R0000068,Langoustines with lemon & pepper butter,645,505-57-7
+R0000068,Langoustines with lemon & pepper butter,586,78-70-6
+R0000068,Langoustines with lemon & pepper butter,235,66-25-1
+R0000068,Langoustines with lemon & pepper butter,556,123-32-0
+R0000068,Langoustines with lemon & pepper butter,338,98-00-0
+R0000068,Langoustines with lemon & pepper butter,786,616-25-1
+R0000068,Langoustines with lemon & pepper butter,761,928-96-1
+R0000068,Langoustines with lemon & pepper butter,798,111-27-3
+R0000068,Langoustines with lemon & pepper butter,703,98-01-1
+R0000069,Eggs Benedict,645,505-57-7
+R0000069,Eggs Benedict,586,78-70-6
+R0000069,Eggs Benedict,235,66-25-1
+R0000069,Eggs Benedict,556,123-32-0
+R0000069,Eggs Benedict,338,98-00-0
+R0000069,Eggs Benedict,1070,100-52-7
+R0000069,Eggs Benedict,786,616-25-1
+R0000069,Eggs Benedict,1401,928-95-0
+R0000069,Eggs Benedict,761,928-96-1
+R0000069,Eggs Benedict,90,89-78-1
+R0000069,Eggs Benedict,798,111-27-3
+R0000069,Eggs Benedict,703,98-01-1
+R0000070,Simple soda bread,786,616-25-1
+R0000070,Simple soda bread,556,123-32-0
+R0000070,Simple soda bread,90,89-78-1
+R0000071,Chicken in a pot,384,116-53-0
+R0000071,Chicken in a pot,34,1192-62-7
+R0000071,Chicken in a pot,645,505-57-7
+R0000071,Chicken in a pot,586,78-70-6
+R0000071,Chicken in a pot,235,66-25-1
+R0000071,Chicken in a pot,556,123-32-0
+R0000071,Chicken in a pot,338,98-00-0
+R0000071,Chicken in a pot,786,616-25-1
+R0000071,Chicken in a pot,761,928-96-1
+R0000071,Chicken in a pot,798,111-27-3
+R0000071,Chicken in a pot,703,98-01-1
+R0000072,Vanilla Pudding,384,116-53-0
+R0000072,Vanilla Pudding,645,505-57-7
+R0000072,Vanilla Pudding,586,78-70-6
+R0000072,Vanilla Pudding,235,66-25-1
+R0000072,Vanilla Pudding,556,123-32-0
+R0000072,Vanilla Pudding,338,98-00-0
+R0000072,Vanilla Pudding,786,616-25-1
+R0000072,Vanilla Pudding,761,928-96-1
+R0000072,Vanilla Pudding,90,89-78-1
+R0000072,Vanilla Pudding,798,111-27-3
+R0000072,Vanilla Pudding,703,98-01-1
+R0000073,Tarragon Chicken Salad Tea Sandwiches,384,116-53-0
+R0000073,Tarragon Chicken Salad Tea Sandwiches,645,505-57-7
+R0000073,Tarragon Chicken Salad Tea Sandwiches,586,78-70-6
+R0000073,Tarragon Chicken Salad Tea Sandwiches,556,123-32-0
+R0000073,Tarragon Chicken Salad Tea Sandwiches,338,98-00-0
+R0000073,Tarragon Chicken Salad Tea Sandwiches,786,616-25-1
+R0000073,Tarragon Chicken Salad Tea Sandwiches,761,928-96-1
+R0000073,Tarragon Chicken Salad Tea Sandwiches,90,89-78-1
+R0000073,Tarragon Chicken Salad Tea Sandwiches,798,111-27-3
+R0000073,Tarragon Chicken Salad Tea Sandwiches,703,98-01-1
+R0000074,Prosecco jelly,384,116-53-0
+R0000074,Prosecco jelly,645,505-57-7
+R0000074,Prosecco jelly,586,78-70-6
+R0000074,Prosecco jelly,235,66-25-1
+R0000074,Prosecco jelly,556,123-32-0
+R0000074,Prosecco jelly,338,98-00-0
+R0000074,Prosecco jelly,786,616-25-1
+R0000074,Prosecco jelly,761,928-96-1
+R0000074,Prosecco jelly,90,89-78-1
+R0000074,Prosecco jelly,798,111-27-3
+R0000074,Prosecco jelly,703,98-01-1
+R0000075,Whitebait & dill mayo,645,505-57-7
+R0000075,Whitebait & dill mayo,586,78-70-6
+R0000075,Whitebait & dill mayo,235,66-25-1
+R0000075,Whitebait & dill mayo,556,123-32-0
+R0000075,Whitebait & dill mayo,786,616-25-1
+R0000075,Whitebait & dill mayo,761,928-96-1
+R0000075,Whitebait & dill mayo,90,89-78-1
+R0000075,Whitebait & dill mayo,798,111-27-3
+R0000075,Whitebait & dill mayo,703,98-01-1
+R0000076,"Sliced fennel, orange & almond salad",384,116-53-0
+R0000076,"Sliced fennel, orange & almond salad",645,505-57-7
+R0000076,"Sliced fennel, orange & almond salad",586,78-70-6
+R0000076,"Sliced fennel, orange & almond salad",235,66-25-1
+R0000076,"Sliced fennel, orange & almond salad",786,616-25-1
+R0000076,"Sliced fennel, orange & almond salad",630,71-41-0
+R0000076,"Sliced fennel, orange & almond salad",761,928-96-1
+R0000076,"Sliced fennel, orange & almond salad",90,89-78-1
+R0000076,"Sliced fennel, orange & almond salad",798,111-27-3
+R0000076,"Sliced fennel, orange & almond salad",703,98-01-1
+R0000077,Watermelon & feta salad,384,116-53-0
+R0000077,Watermelon & feta salad,645,505-57-7
+R0000077,Watermelon & feta salad,235,66-25-1
+R0000077,Watermelon & feta salad,556,123-32-0
+R0000077,Watermelon & feta salad,338,98-00-0
+R0000077,Watermelon & feta salad,786,616-25-1
+R0000077,Watermelon & feta salad,761,928-96-1
+R0000077,Watermelon & feta salad,90,89-78-1
+R0000077,Watermelon & feta salad,798,111-27-3
+R0000077,Watermelon & feta salad,703,98-01-1
+R0000078,Mini vegan doughnuts,384,116-53-0
+R0000078,Mini vegan doughnuts,645,505-57-7
+R0000078,Mini vegan doughnuts,586,78-70-6
+R0000078,Mini vegan doughnuts,235,66-25-1
+R0000078,Mini vegan doughnuts,556,123-32-0
+R0000078,Mini vegan doughnuts,338,98-00-0
+R0000078,Mini vegan doughnuts,786,616-25-1
+R0000078,Mini vegan doughnuts,630,71-41-0
+R0000078,Mini vegan doughnuts,761,928-96-1
+R0000078,Mini vegan doughnuts,798,111-27-3
+R0000078,Mini vegan doughnuts,703,98-01-1
+R0000079,citrus shortbread,645,505-57-7
+R0000079,citrus shortbread,586,78-70-6
+R0000079,citrus shortbread,235,66-25-1
+R0000079,citrus shortbread,556,123-32-0
+R0000079,citrus shortbread,786,616-25-1
+R0000079,citrus shortbread,630,71-41-0
+R0000079,citrus shortbread,761,928-96-1
+R0000079,citrus shortbread,798,111-27-3
+R0000079,citrus shortbread,703,98-01-1
+R0000080,Potato Candy,384,116-53-0
+R0000080,Potato Candy,645,505-57-7
+R0000080,Potato Candy,586,78-70-6
+R0000080,Potato Candy,556,123-32-0
+R0000080,Potato Candy,338,98-00-0
+R0000080,Potato Candy,761,928-96-1
+R0000080,Potato Candy,798,111-27-3
+R0000080,Potato Candy,703,98-01-1
+R0000081,PassionFruit Melting Moments,761,928-96-1
+R0000081,PassionFruit Melting Moments,556,123-32-0
+R0000081,PassionFruit Melting Moments,645,505-57-7
+R0000081,PassionFruit Melting Moments,798,111-27-3
+R0000082,Winter pea & bean braise,384,116-53-0
+R0000082,Winter pea & bean braise,645,505-57-7
+R0000082,Winter pea & bean braise,586,78-70-6
+R0000082,Winter pea & bean braise,235,66-25-1
+R0000082,Winter pea & bean braise,556,123-32-0
+R0000082,Winter pea & bean braise,338,98-00-0
+R0000082,Winter pea & bean braise,786,616-25-1
+R0000082,Winter pea & bean braise,761,928-96-1
+R0000082,Winter pea & bean braise,90,89-78-1
+R0000082,Winter pea & bean braise,798,111-27-3
+R0000083,Chicken wellingtons with creamy pea sauce,645,505-57-7
+R0000083,Chicken wellingtons with creamy pea sauce,235,66-25-1
+R0000083,Chicken wellingtons with creamy pea sauce,556,123-32-0
+R0000083,Chicken wellingtons with creamy pea sauce,338,98-00-0
+R0000083,Chicken wellingtons with creamy pea sauce,786,616-25-1
+R0000083,Chicken wellingtons with creamy pea sauce,761,928-96-1
+R0000083,Chicken wellingtons with creamy pea sauce,90,89-78-1
+R0000083,Chicken wellingtons with creamy pea sauce,798,111-27-3
+R0000083,Chicken wellingtons with creamy pea sauce,703,98-01-1
+R0000084,Spiced raisin rice pudding,384,116-53-0
+R0000084,Spiced raisin rice pudding,645,505-57-7
+R0000084,Spiced raisin rice pudding,586,78-70-6
+R0000084,Spiced raisin rice pudding,235,66-25-1
+R0000084,Spiced raisin rice pudding,556,123-32-0
+R0000084,Spiced raisin rice pudding,338,98-00-0
+R0000084,Spiced raisin rice pudding,786,616-25-1
+R0000084,Spiced raisin rice pudding,761,928-96-1
+R0000084,Spiced raisin rice pudding,90,89-78-1
+R0000084,Spiced raisin rice pudding,798,111-27-3
+R0000084,Spiced raisin rice pudding,703,98-01-1
+R0000085,Pumpkin and prosciutto lasagne,645,505-57-7
+R0000085,Pumpkin and prosciutto lasagne,235,66-25-1
+R0000085,Pumpkin and prosciutto lasagne,1070,100-52-7
+R0000085,Pumpkin and prosciutto lasagne,786,616-25-1
+R0000085,Pumpkin and prosciutto lasagne,1401,928-95-0
+R0000085,Pumpkin and prosciutto lasagne,761,928-96-1
+R0000085,Pumpkin and prosciutto lasagne,90,89-78-1
+R0000085,Pumpkin and prosciutto lasagne,798,111-27-3
+R0000086,Potato Crisps,384,116-53-0
+R0000086,Potato Crisps,586,78-70-6
+R0000086,Potato Crisps,556,123-32-0
+R0000086,Potato Crisps,786,616-25-1
+R0000086,Potato Crisps,798,111-27-3
+R0000086,Potato Crisps,703,98-01-1
+R0000087,Bacon and cheese nachos,384,116-53-0
+R0000087,Bacon and cheese nachos,34,1192-62-7
+R0000087,Bacon and cheese nachos,645,505-57-7
+R0000087,Bacon and cheese nachos,586,78-70-6
+R0000087,Bacon and cheese nachos,235,66-25-1
+R0000087,Bacon and cheese nachos,556,123-32-0
+R0000087,Bacon and cheese nachos,338,98-00-0
+R0000087,Bacon and cheese nachos,786,616-25-1
+R0000087,Bacon and cheese nachos,761,928-96-1
+R0000087,Bacon and cheese nachos,90,89-78-1
+R0000087,Bacon and cheese nachos,798,111-27-3
+R0000087,Bacon and cheese nachos,703,98-01-1
+R0000088,Colcannon,384,116-53-0
+R0000088,Colcannon,645,505-57-7
+R0000088,Colcannon,586,78-70-6
+R0000088,Colcannon,235,66-25-1
+R0000088,Colcannon,556,123-32-0
+R0000088,Colcannon,338,98-00-0
+R0000088,Colcannon,786,616-25-1
+R0000088,Colcannon,761,928-96-1
+R0000088,Colcannon,90,89-78-1
+R0000088,Colcannon,798,111-27-3
+R0000088,Colcannon,703,98-01-1
+R0000089,whole roasted pheasant,384,116-53-0
+R0000089,whole roasted pheasant,645,505-57-7
+R0000089,whole roasted pheasant,235,66-25-1
+R0000089,whole roasted pheasant,556,123-32-0
+R0000089,whole roasted pheasant,338,98-00-0
+R0000089,whole roasted pheasant,761,928-96-1
+R0000089,whole roasted pheasant,798,111-27-3
+R0000089,whole roasted pheasant,703,98-01-1
+R0000090,Beef & barley bun with horseradish,384,116-53-0
+R0000090,Beef & barley bun with horseradish,645,505-57-7
+R0000090,Beef & barley bun with horseradish,235,66-25-1
+R0000090,Beef & barley bun with horseradish,556,123-32-0
+R0000090,Beef & barley bun with horseradish,338,98-00-0
+R0000090,Beef & barley bun with horseradish,786,616-25-1
+R0000090,Beef & barley bun with horseradish,761,928-96-1
+R0000090,Beef & barley bun with horseradish,798,111-27-3
+R0000090,Beef & barley bun with horseradish,703,98-01-1
+R0000091,Cock a Leekie Soup,384,116-53-0
+R0000091,Cock a Leekie Soup,645,505-57-7
+R0000091,Cock a Leekie Soup,235,66-25-1
+R0000091,Cock a Leekie Soup,556,123-32-0
+R0000091,Cock a Leekie Soup,338,98-00-0
+R0000091,Cock a Leekie Soup,798,111-27-3
+R0000091,Cock a Leekie Soup,703,98-01-1
+R0000092,British roots,384,116-53-0
+R0000092,British roots,645,505-57-7
+R0000092,British roots,586,78-70-6
+R0000092,British roots,235,66-25-1
+R0000092,British roots,556,123-32-0
+R0000092,British roots,786,616-25-1
+R0000092,British roots,630,71-41-0
+R0000092,British roots,761,928-96-1
+R0000092,British roots,798,111-27-3
+R0000092,British roots,703,98-01-1
+R0000093,Posh beans toast,384,116-53-0
+R0000093,Posh beans toast,34,1192-62-7
+R0000093,Posh beans toast,645,505-57-7
+R0000093,Posh beans toast,586,78-70-6
+R0000093,Posh beans toast,235,66-25-1
+R0000093,Posh beans toast,556,123-32-0
+R0000093,Posh beans toast,338,98-00-0
+R0000093,Posh beans toast,786,616-25-1
+R0000093,Posh beans toast,761,928-96-1
+R0000093,Posh beans toast,798,111-27-3
+R0000093,Posh beans toast,703,98-01-1
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",384,116-53-0
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",34,1192-62-7
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",645,505-57-7
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",586,78-70-6
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",235,66-25-1
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",556,123-32-0
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",786,616-25-1
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",630,71-41-0
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",761,928-96-1
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",90,89-78-1
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",798,111-27-3
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",703,98-01-1
+R0000095,Leek & potato soup with blue cheese toast,384,116-53-0
+R0000095,Leek & potato soup with blue cheese toast,645,505-57-7
+R0000095,Leek & potato soup with blue cheese toast,586,78-70-6
+R0000095,Leek & potato soup with blue cheese toast,235,66-25-1
+R0000095,Leek & potato soup with blue cheese toast,556,123-32-0
+R0000095,Leek & potato soup with blue cheese toast,338,98-00-0
+R0000095,Leek & potato soup with blue cheese toast,786,616-25-1
+R0000095,Leek & potato soup with blue cheese toast,761,928-96-1
+R0000095,Leek & potato soup with blue cheese toast,798,111-27-3
+R0000095,Leek & potato soup with blue cheese toast,703,98-01-1
+R0000096,Corned beef with parsley sauce,645,505-57-7
+R0000096,Corned beef with parsley sauce,235,66-25-1
+R0000096,Corned beef with parsley sauce,556,123-32-0
+R0000096,Corned beef with parsley sauce,338,98-00-0
+R0000096,Corned beef with parsley sauce,786,616-25-1
+R0000096,Corned beef with parsley sauce,761,928-96-1
+R0000096,Corned beef with parsley sauce,798,111-27-3
+R0000096,Corned beef with parsley sauce,703,98-01-1
+R0000097,Apple and butterscotch sponge pudding,384,116-53-0
+R0000097,Apple and butterscotch sponge pudding,645,505-57-7
+R0000097,Apple and butterscotch sponge pudding,586,78-70-6
+R0000097,Apple and butterscotch sponge pudding,235,66-25-1
+R0000097,Apple and butterscotch sponge pudding,556,123-32-0
+R0000097,Apple and butterscotch sponge pudding,338,98-00-0
+R0000097,Apple and butterscotch sponge pudding,786,616-25-1
+R0000097,Apple and butterscotch sponge pudding,630,71-41-0
+R0000097,Apple and butterscotch sponge pudding,761,928-96-1
+R0000097,Apple and butterscotch sponge pudding,90,89-78-1
+R0000097,Apple and butterscotch sponge pudding,798,111-27-3
+R0000097,Apple and butterscotch sponge pudding,703,98-01-1
+R0000098,Creamed spinach,645,505-57-7
+R0000098,Creamed spinach,235,66-25-1
+R0000098,Creamed spinach,556,123-32-0
+R0000098,Creamed spinach,1070,100-52-7
+R0000098,Creamed spinach,786,616-25-1
+R0000098,Creamed spinach,1401,928-95-0
+R0000098,Creamed spinach,761,928-96-1
+R0000098,Creamed spinach,798,111-27-3
+R0000099,Baked rice pudding,384,116-53-0
+R0000099,Baked rice pudding,645,505-57-7
+R0000099,Baked rice pudding,586,78-70-6
+R0000099,Baked rice pudding,556,123-32-0
+R0000099,Baked rice pudding,338,98-00-0
+R0000099,Baked rice pudding,786,616-25-1
+R0000099,Baked rice pudding,90,89-78-1
+R0000099,Baked rice pudding,798,111-27-3
+R0000099,Baked rice pudding,703,98-01-1
+R00000100,Traditional shortbread,384,116-53-0
+R00000100,Traditional shortbread,645,505-57-7
+R00000100,Traditional shortbread,556,123-32-0
+R00000100,Traditional shortbread,761,928-96-1
+R00000100,Traditional shortbread,90,89-78-1
+R00000100,Traditional shortbread,798,111-27-3

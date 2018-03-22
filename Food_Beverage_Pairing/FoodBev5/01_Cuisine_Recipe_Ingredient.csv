@@ -1,0 +1,755 @@
+Recipe Id,Ingredient Name,Aliased Ingredient Name,Aliased Ingredient_ID
+R000001,yogurt,buttermilk,1008
+R000001,lemon juice,lemon,1132
+R000001,fresh ground cumin,cumin,579
+R000001,ground cinnamon,cinnamon,439
+R000001,cayenne pepper,cayenne,663
+R000001,freshly ground black pepper,black_pepper,7
+R000001,minced fresh ginger,ginger,164
+R000001,chicken breasts,chicken,1338
+R000001,butter,butter,298
+R000001,garlic,garlic,136
+R000001,jalapeno pepper,cayenne,663
+R000001,ground cumin,cumin,579
+R000001,paprika,cayenne,663
+R000001,tomato sauce,tomato,1240
+R000001,heavy cream,cream,724
+R000001,chopped fresh cilantro,coriander,1267
+R000002,ground black pepper,black_pepper,7
+R000002,chicken bouillon,chicken,1338
+R000002,kidney_bean,kidney_bean,759
+R000002,onion,onion,1447
+R000002,garlic,garlic,136
+R000002,red bell pepper,green_bell_pepper,1114
+R000002,jalapeno chile,cayenne,663
+R000002,ham,pork,1586
+R000002,bacon,pork,1586
+R000002,cayenne pepper,cayenne,663
+R000002,cumin,cumin,579
+R000003,potatoes,potato,385
+R000003,butter,butter,298
+R000003,milk,milk,396
+R000003,pepper,black_pepper,7
+R000003,beef,beef,248
+R000003,onion,onion,1447
+R000004,cabbage,cabbage,1237
+R000004,bacon,pork,1586
+R000004,onion,onion,1447
+R000004,ham,pork,1586
+R000004,butter,butter,298
+R000004,potatoes,potato,385
+R000004,paprika,cayenne,663
+R000004,pepper,black_pepper,7
+R000005,potatoes,potato,385
+R000005,all-purpose flour,wheat,1179
+R000005,black pepper,black_pepper,7
+R000005,cod,cod,1588
+R000005,vegetable oil,vegetable_oil,1589
+R000005,milk,milk,396
+R000005,egg,egg,848
+R000006,butter,butter,298
+R000006,all-purpose flour,wheat,1179
+R000006,dry mustard,mustard,1140
+R000006,pepper,black_pepper,7
+R000006,cheddar cheese,cheese,525
+R000006,worcestershire sauce,NIL,NIL
+R000006,hot pepper sauce,black_pepper,7
+R000006,milk,milk,396
+R000006,beer,beer,1590
+R000007,all-purpose flour,wheat,1179
+R000007,milk,milk,396
+R000007,beef drippings,beef,248
+R000007,eggs,egg,848
+R000008,heavy whipping cream,cream,724
+R000008,butter,butter,298
+R000008,condensed milk,milk,396
+R000008,ginger,ginger,164
+R000008,bananas,banana,918
+R000009,butter,butter,298
+R000009,bananas,banana,918
+R000009,ginger,ginger,164
+R000009,condensed milk,milk,396
+R000009,butter,butter,298
+R000009,apricot,apricot,1120
+R000009,eggs,egg,848
+R000009,vanilla extract,vanilla_oil,203
+R000009,all-purpose flour,wheat,1179
+R000009,lemon juice,lemon,1132
+R000009,almond extract,almond,18
+R000009,almonds,almond,18
+R0000010,bread,bread,105
+R0000010,milk,milk,396
+R0000010,butter,butter,298
+R0000010,mixed spice,all_spice,1530
+R0000010,egg,egg,848
+R0000010,orange zest,orange,1257
+R0000010,nutmeg,nutmeg,1356
+R0000011,all-purpose flour,wheat,1179
+R0000011,savory,mint,166
+R0000011,milk,milk,396
+R0000011,eggs,egg,848
+R0000011,pork sausage,pork,1586
+R0000012,green apples,apple,1197
+R0000012,ginger,ginger,164
+R0000012,rice,rice,205
+R0000012,carrots,carrot,1216
+R0000012,broccoli,broccoli,1591
+R0000012,pork fillet,pork,1586
+R0000012,nutmeg,nutmeg,1356
+R0000012,sage,sage,1594
+R0000012,olive oil,olive,466
+R0000012,oranges,orange,1257
+R0000012,yogurt,buttermilk,1008
+R0000013,all-purpose flour,wheat,1179
+R0000013,milk,milk,396
+R0000013,butter,butter,298
+R0000013,vanilla extract,vanilla_oil,203
+R0000013,eggs,egg,848
+R0000014,lamb,lamb,1587
+R0000014,olive oil,olive,466
+R0000014,red onions,onion,1447
+R0000014,carrots,carrot,1216
+R0000014,celery,celery,1593
+R0000014,swede,turnip,116
+R0000014,breadcrumbs,bread,105
+R0000014,plain flour,wheat,1179
+R0000014,maris piper potatoes,potato,385
+R0000014,butter,butter,298
+R0000014,cheddar cheese,cheese,525
+R0000014,rosemary,rosemary,1582
+R0000015,banana shallots,banana ,918
+R0000015,garlic,garlic,136
+R0000015,olive oil,olive,466
+R0000015,rosemary,rosemary,1582
+R0000015,red wine,white_wine,1428
+R0000015,tomatoes,tomato,1240
+R0000015,cannellini beans,kidney_bean,759
+R0000015,dried chillies,cayenne,663
+R0000015,breadcrumbs,bread,105
+R0000016,Yukon Gold potatoes,potato,105
+R0000016,butter,butter,385
+R0000016,garlic,garlic,298
+R0000016,pepper,pepper,136
+R0000016,olive oil,olive_oil,7
+R0000016,beef,beef,466
+R0000016,nutmeg,nutmeg,248
+R0000016,peas,pea,1088
+R0000016,pork,pork,1586
+R0000016,beef,beef,248
+R0000016,potatoes,potato,105
+R0000016,black pepper,black_pepper,136
+R0000016,nutmeg,nutmeg,1356
+R0000016,egg white,egg,848
+R0000017,pork,pork,1586
+R0000017,beef,beef,248
+R0000017,potatoes,potatoes,385
+R0000017,black pepper,black_pepper,7
+R0000017,nutmeg,nutmeg,1356
+R0000017,egg white,egg,848
+R0000018,strawberries,strawberry,717
+R0000018,whipping cream,cream,724
+R0000018,pomegranate juice,pomegranate,1567
+R0000020,eggs,egg,848
+R0000020,pork,pork,1586
+R0000020,onion,onion,1447
+R0000020,sage,sage,1594
+R0000020,black pepper,black_pepper,7
+R0000020,white pepper,white_pepper,1577
+R0000020,nutmeg,nutmeg,1356
+R0000020,cayenne pepper,cayenne,663
+R0000020,chicken stock,chicken,1338
+R0000020,vegetable oil,vegetable_oil,1589
+R0000020,all-purpose flour,wheat,1179
+R0000020,breadcrumbs,bread,105
+R0000020,mayonnaise,egg,848
+R0000020,curry powder,curry_powder,1544
+R0000021,milk,milk,396
+R0000021,all-purpose flour,wheat,1179
+R0000021,butter,butter,298
+R0000021,clover honey,honey,64
+R0000021,instant yeast,yeast,407
+R0000021,heavy cream,cream,724
+R0000021,oranges,orange,1257
+R0000021,lemons,lemon,1132
+R0000021,blueberries,blueberry,46
+R0000022,green tomatoes,tomato,1240
+R0000022,bell pepper,green_bell_pepper,1114
+R0000022,zucchini,zucchini,1080
+R0000022,onion,onion,1447
+R0000022,jalepeno,cayenne,663
+R0000022,cider vinegar,vinegar,1012
+R0000022,celery seeds,celery,1593
+R0000022,mustard seeds,mustard,1140
+R0000022,ginger,ginger,164
+R0000022,cinnamon,cinnamon,439
+R0000022,turmeric,turmeric,849
+R0000022,bay leaves,bay_laurel,1126
+R0000022,cloves,clove,1320
+R0000022,black pepper,black_pepper,7
+R0000023,blueberries,blueberry,46
+R0000023,strawberries,strawberry,717
+R0000023,raspberries,blueberry,46
+R0000023,lemon,lemon,1132
+R0000023,cornstarch,maize,1491
+R0000023,whipping cream,cream,724
+R0000023,vanilla extract,vanilla_oil,203
+R0000023,lemon curd,lemon,1132
+R0000024,dry yeast,yeast,407
+R0000024,all-purpose flour,wheat,1179
+R0000024,butter,butter,298
+R0000024,milk,milk,396
+R0000025,peas,pea,1088
+R0000025,potato,potato,385
+R0000025,onion,onion,1447
+R0000025,garlic,garlic,136
+R0000025,butter,butter,298
+R0000025,parsley,parsley,251
+R0000025,ham hock,pork,1586
+R0000025,bay leaves,bay_laurel,1126
+R0000025,cloves,clove,1320
+R0000025,peppercorns,black_pepper,7
+R0000025,onions,onion,1447
+R0000025,carrots,carrot,1216
+R0000025,celery,celery,1593
+R0000025,turnips,turnip,116
+R0000025,cabbage,cabbage,1237
+R0000026,all-purpose flour,wheat,1179
+R0000026,milk,milk,396
+R0000026,margarine,soybean,41
+R0000027,green peas,pea,1088
+R0000027,heavy cream,cream,724
+R0000027,butter,butter,298
+R0000027,freshly ground black pepper,black_pepper,7
+R0000028,onion,onion,1447
+R0000028,lamb meat,lamb,1587
+R0000028,potatoes,potato,385
+R0000028,thyme,thyme,1592
+R0000028,butter,butter,298
+R0000028,lamb stock,lamb,1587
+R0000029,parsley,parsley,251
+R0000029,beef shank,beef,248
+R0000029,onions,onion,1447
+R0000029,carrots,carrot,1216
+R0000029,rutabaga,turnip,116
+R0000029,pepper,black_pepper,7
+R0000029,potatoes,potatoes,385
+R0000029,leeks,onion,1447
+R0000029,cabbage,cabbage,1237
+R0000030,beef kidney,beef,248
+R0000030,all-purpose flour,wheat,1179
+R0000030,pepper,black_pepper,7
+R0000030,beef,beef,248
+R0000030,bacon,pork,1586
+R0000030,onion,onion,1447
+R0000030,mushrooms,mushroom,260
+R0000030,red wine,white_wine,1428
+R0000030,potatoes,potato,385
+R0000030,butter,butter,298
+R0000030,milk,milk,396
+R0000030,egg,egg,848
+R0000031,butter,butter,298
+R0000031,mixed spice,all_spice,1530
+R0000031,egg white,egg,848
+R0000032,self-rising flour,wheat,1179
+R0000032,parmesan cheese,cheese,525
+R0000032,milk,milk,396
+R0000032,butter,butter,298
+R0000032,onions,onion,1447
+R0000032,garlic,garlic,136
+R0000032,lamb,lamb,1587
+R0000032,worcestershire sauce,NIL,NIL
+R0000032,brandy,white_wine,1428
+R0000032,port wine,white_wine,1428
+R0000032,pepper,black_pepper,7
+R0000032,green peas,pea,1088
+R0000032,milk,milk,396
+R0000033,dates,date,483
+R0000033,butter,butter,298
+R0000033,eggs,egg,848
+R0000033,flour,wheat,1179
+R0000033,mixed spice,all_spice,1530
+R0000033,cinnamon,cinnamon,439
+R0000033,yoghurt,buttermilk,1008
+R0000033,double cream,cream,724
+R0000034,olive oil,olive,466
+R0000034,blackberries,blueberry,46
+R0000034,blackcurrants,black_currant,1026
+R0000034,strawberries,strawberry,717
+R0000034,redcurrants,black_currant,1026
+R0000034,raspberries,blueberry,46
+R0000034,orange,orange,1257
+R0000034,vanilla paste,vanilla_oil,203
+R0000034,white bread,bread,105
+R0000034,red berry jam,strawberry,717
+R0000035,butter,butter,298
+R0000035,eggs,egg,848
+R0000035,all-purpose flour,wheat,1179
+R0000035,whipping cream,cream,724
+R0000035,vanilla extract,vanilla_oil,203
+R0000035,lemon extract,lemon,1132
+R0000036,black peppercorn,black_pepper,7
+R0000036,English mustard powder,mustard,1140
+R0000036,thyme,thyme,1592
+R0000036,celery,celery,1593
+R0000036,olive oil,olive,466
+R0000036,beef,beef,248
+R0000036,flour,wheat,1179
+R0000036,beef,beef,248
+R0000036,onion,onion,1447
+R0000036,Marmite,yeast,407
+R0000037,white bread,bread,105
+R0000037,garlic,garlic,136
+R0000037,lemon,lemon,1132
+R0000037,thyme,thyme,1592
+R0000037,parsley,parsley,251
+R0000037,carrots,carrot,1216
+R0000037,onions,onion,1447
+R0000037,bay leaves,bay_laurel,1126
+R0000037,rosemary,rosemary,1582
+R0000037,olive oil,olive,466
+R0000037,lamb,lamb,1587
+R0000037,garlic,garlic,136
+R0000038,bacon,pork,1586
+R0000038,portabello mushrooms,mushroom,260
+R0000038,tomatoes,tomato,1240
+R0000038,olive oil,olive,466
+R0000038,pork,pork,1586
+R0000038,egg,egg,848
+R0000038,cider vinegar,vinegar,1012
+R0000038,orange juice,orange,1257
+R0000038,blueberries,blueberry,46
+R0000039,whipping cream,cream,724
+R0000039,white wine,white_wine,1428
+R0000039,lemon,lemon,1132
+R0000039,almond,almond,18
+R0000040,golden syrup,honey,64
+R0000040,heavy cream,cream,724
+R0000040,bread crumbs,bread,105
+R0000040,lemon,lemon,1132
+R0000040,lemon juice,lemon,1132
+R0000041,mincemeat,chicken,1338
+R0000041,apple,apple,1197
+R0000041,lemon,lemon,1132
+R0000041,plain flour,wheat,1179
+R0000041,butter,butter,298
+R0000041,egg,egg,848
+R0000042,milk,milk,396
+R0000042,butter,butter,298
+R0000042,lemon,lemon,1132
+R0000042,breadcrumbs,bread,105
+R0000043,olive oil,olive,466
+R0000043,onions,onion,1447
+R0000043,garlic,garlic,136
+R0000043,ginger,ginger,164
+R0000043,black pepper,black_pepper,7
+R0000043,coriander seeds,coriander,1233
+R0000043,cumin seeds,cumin,579
+R0000043,mustard seeds,mustard,1140
+R0000043,ground beef,beef,248
+R0000043,tomato puree,tomato,1240
+R0000043,English mustard,mustard,1140
+R0000043,Worcestershire sauce,NIL,NIL
+R0000043,peas,pea,1088
+R0000043,mint leaves,mint,166
+R0000043,egg,egg,848
+R0000044,butter,butter,298
+R0000044,cayenne pepper,cayenne,663
+R0000044,prawns,prawn,114
+R0000044,shrimps,shrimp,1583
+R0000044,ciabatta loaf,bread,105
+R0000044,olive oil,olive,466
+R0000044,lemon,lemon,1132
+R0000045,butter,butter,298
+R0000045,golden syrup,honey,64
+R0000045,fresh lemon juice,lemon,1132
+R0000045,eggs,egg,848
+R0000045,milk,milk,396
+R0000045,all-purpose flour,wheat,1179
+R0000045,whipped cream,cream,724
+R0000045,blackberries,blueberry,46
+R0000046,golden syrup,honey,64
+R0000046,lemon juice,lemon,1132
+R0000046,self-rasing flour,wheat,1179
+R0000046,cinnamon,cinnamon,439
+R0000046,butter,butter,298
+R0000046,finely grated lemon zest,lemon,1132
+R0000046,semi skimmed milk,milk,396
+R0000046,currants,black_currant,1026
+R0000047,vegetable oil,vegetable_oil,1589
+R0000047,clace cherries,cherry,309
+R0000047,condensed sweetned milk,milk,396
+R0000047,coconut,coconut,545
+R0000048,butter ,butter ,298
+R0000048,golden syrup,honey,64
+R0000048,vanilla extract,vanilla_oil,203
+R0000048,self raising flour,wheat,1179
+R0000048,eggs,egg,848
+R0000049,butter ,butter ,298
+R0000049,white bread,bread,105
+R0000049,currants,black_currant,1026
+R0000049,caster eggs,egg,848
+R0000049,milk ,milk,396
+R0000049,nutmeg,nutmeg,1356
+R0000050,vegetable oil,vegetable_oil,1589
+R0000050,eggs,egg,848
+R0000050,strawberry jam,strawberry,717
+R0000050,plain flour,wheat,1179
+R0000051,lamb's liver,lamb,1587
+R0000051,plain flour,wheat,1179
+R0000051,butter,butter,298
+R0000051,smoked steaky bacon rashers,pork,1586
+R0000051,tomato puree,tomato,1240
+R0000051,worcestershire sauce,NIL,NIL
+R0000051,onions,onion,1447
+R0000051,soured cream,cream,724
+R0000051,parsley,parsley,251
+R0000051,pepper,black_pepper,7
+R0000052,rabbits ,beef,248
+R0000052, mustard powder,mustard,1369
+R0000052, plain flour,wheat,1179
+R0000052,onions,onion,1447
+R0000052,celery,celery,1593
+R0000052,butter,butter,298
+R0000052,thyme,thyme,1592
+R0000052,pale ale,NIL,NIL
+R0000052,mustard,mustard,1140
+R0000053,milk,milk,396
+R0000053,yeast,yeast,407
+R0000053,white flour ,wheat,1179
+R0000053,butter ,butter ,298
+R0000053,caraway seeds,caraway_seed,1078
+R0000053,egg,egg,848
+R0000053,milk,milk,396
+R0000054,butter ,butter ,298
+R0000054,eggs,egg,848
+R0000054,vanilla extract,vanilla_oil,203
+R0000054,milk,milk,396
+R0000054,self-raising flour,wheat,1179
+R0000054,almonds,almond,18
+R0000054,cocoa powder,cocoa,1488
+R0000054,raspberry jam,strawberry,717
+R0000054,marzipan ,almond,18
+R0000055,red chilli,cayenne,663
+R0000055,dill,dill,1125
+R0000055,crabmeat,crab,1204
+R0000055,lemon,lemon,1132
+R0000055,mace,mace,943
+R0000055,cayenne,cayenne,663
+R0000055,nutmeg ,nutmeg ,1356
+R0000055,butter,butter,298
+R0000056,honey,honey,64
+R0000056,nutmeg,nutmeg,1356
+R0000056,allspice,all_spice,1530
+R0000056,cinnamon,cinnamon,439
+R0000056,raisins,raisin,133
+R0000056,currents,black_currant,1026
+R0000056,candied citrus peel,orange,1257
+R0000056,dark rum,white_wine,1428
+R0000056,plain flour ,wheat,1179
+R0000056,egg,egg,848
+R0000057,butter,butter,298
+R0000057,shrimps,shrimp,1583
+R0000057,cider,cider_vinegar,1540
+R0000057,bread,bread,105
+R0000058,double cream,cream,724
+R0000058,milk,milk,396
+R0000058,vanilla pod,vanilla_oil,203
+R0000058,eggs,egg,848
+R0000059,black mustard seeds,black_mustard_seed_oil,15
+R0000059,yellow mustard seeds,mustard,1140
+R0000059,British beer,beer,1590
+R0000059,malt vinegar,vinegar,1012
+R0000059,honey,honey,64
+R0000060,onion,onion,1447
+R0000060,sage,sage,1594
+R0000060,butter,butter,298
+R0000060,olive oil,olive,466
+R0000060,white wine,white_wine,1428
+R0000060,chicken stock,chicken,1338
+R0000061,thyme sprigs leaves,thyme,1592
+R0000061,garlic cloves,garlic,136
+R0000061,olive oil,olive,466
+R0000061,dijon mustard,mustard,1140
+R0000061,massel beef stock,beef,248
+R0000061,red wine,white_wine,1428
+R0000061,large ciabatta loaf split,bread,105
+R0000061,rocket Leaves,cabbage,1237
+R0000061,red onion,onion,1447
+R0000062,ham hock,pork,1586
+R0000062,leek,onion,1447
+R0000062,green split peas,pea,1088
+R0000062,cream,cream,724
+R0000062,flat-leaf parsley,parsley,251
+R0000062,celery sticks,celery,1593
+R0000063,flour,wheat,1179
+R0000063,butter,butter,298
+R0000063,walnuts,walnut,1255
+R0000063,oats,oat,1435
+R0000064,olive oil,olive,466
+R0000064,turkey thigh roast,chicken,1338
+R0000064,butter,butter,298
+R0000064,shallot ,shallot ,1305
+R0000064,brown mushrooms,mushroom,260
+R0000064,prosciutto,pork,1586
+R0000064,spinach,spinach,1580
+R0000065,butter,butter,298
+R0000065,golden syrup,honey,64
+R0000065,egg yolk,egg,848
+R0000065,apricot jam,apricot,1120
+R0000065,orange juice,orange,1257
+R0000065,self-raising flour,wheat,1179
+R0000065,mixed spice,all_spice,1530
+R0000065,almond meal,almond,18
+R0000065,brandy,white_wine,1428
+R0000065,egg yolk,egg,848
+R0000065,lemon juice,lemon,1132
+R0000066,cream cheese,cheese,525
+R0000066,heavy cream,cream,724
+R0000067,irish bacon,pork,1586
+R0000067,potatoes,potato,385
+R0000067,tomatoes,tomato,1240
+R0000067,pepper,black_pepper,7
+R0000067,dark green savoy Cabbage Leaves,cabbage,1237
+R0000068,langoustines,crab,1204
+R0000068,white wine,white_wine,1428
+R0000068,breadcrumbs,bread,105
+R0000068,olive oil,olive,466
+R0000068,lemons,lemon,1132
+R0000068,butter,butter,298
+R0000068,black pepper,black_pepper,7
+R0000069,onions,onion,1447
+R0000069,olive oil,olive,466
+R0000069,baby spinach,spinach,1580
+R0000069, nutmeg ,nutmeg,1356
+R0000069,lemon,lemon,1132
+R0000069,eggs,egg,848
+R0000069,ham,pork,1586
+R0000069,butter,butter,298
+R0000069,egg yolks,egg,848
+R0000069,dijon mustard,mustard,1140
+R0000069,white wine vinegar,white_wine,1428
+R0000070,wholemeal flour,wheat,1179
+R0000070,plain flour ,wheat,1179
+R0000070,pinhead oatmeal,oat,1435
+R0000070,egg,egg,848
+R0000070,buttermilk,buttermilk,1008
+R0000071,tomatoes,tomato,1240
+R0000071,garlic,garlic,136
+R0000071,onion,onion,1447
+R0000071,olives,olive,466
+R0000071,parsley,parsley,251
+R0000071,chickpeas,chickpea,496
+R0000071,chicken legs,chicken,1338
+R0000071,olive oil,olive,466
+R0000071,chicken stock,chicken,1338
+R0000071,bay leaf,bay_laurel,1126
+R0000071,potatoes,potato,385
+R0000072,eggs,egg,848
+R0000072,vanilla extract,vanilla_oil,203
+R0000072,butter,butter,298
+R0000072,currants,black_currant,1026
+R0000072,milk,milk,396
+R0000072,white loaf,bread,105
+R0000073,chicken,chicken,1338
+R0000073,mayonnaise ,egg,848
+R0000073,sour cream,cream,
+R0000073,grapes,grape,399
+R0000073,pecans,walnut,1255
+R0000073,pepper,black_pepper,7
+R0000073,bread,bread,105
+R0000074,prosecco,white_wine,1428
+R0000074,lemon juice ,lemon,1132
+R0000074,gelatine,NIL,NIL
+R0000074,elderflower cordial,NIL,NIL
+R0000074,plums  ,NIL,NIL
+R0000074,mint,mint,166
+R0000074,edible flowers ,NIL,NIL
+R0000074,cream ,cream,724
+R0000074,seasonal berries,strawberry,717
+R0000075,fennel seeds,fennel,196
+R0000075,plain flour,wheat,1179
+R0000075,whitebait,prawn,114
+R0000075,fresh dill,dill,1125
+R0000075,mayjonnaise,egg,848
+R0000075,lemon,lemon,1132
+R0000076,fennel,fennel,196
+R0000076,almonds,almond,18
+R0000076,oranges,orange,1257
+R0000076,mint,mint,166
+R0000076,rocket,cabbage,1237
+R0000076,sherry vinegar,vinegar,1012
+R0000076,extra virgin olive oil,olive,466
+R0000077,watermelon,watermelon,210
+R0000077,red onion,onion,1447
+R0000077,feta cheese,feta_cheese,1422
+R0000077,mint,mint,166
+R0000077,extra virgin olive oil,olive,466
+R0000078,dairy-free margarine,butter,298
+R0000078,organic soya milk,soybean,41
+R0000078,sunflower oil,sunflower_oil,391
+R0000078,plain flour,wheat,1179
+R0000078,raspberries,strawberry,717
+R0000078,orange,orange,1257
+R0000079,butter,butter,298
+R0000079,orange,orange,1257
+R0000079,lemon,lemon,1132
+R0000079,lime,citrus_limetta_oil,1025
+R0000079,flour,wheat,1179
+R0000080,butter,butter,298
+R0000080,cream cheese,cheese,525
+R0000080,vanilla extract,vanilla_oil,203
+R0000080,cinnamon,cinnamon,439
+R0000080,coconut,coconut,545
+R0000081,butter,butter,298
+R0000081,custard powder,NIL,NIL
+R0000081,passionfurit pulp,NIL,NIL
+R0000082,butter,butter,298
+R0000082,french shallots,shallot,1305
+R0000082,garlic cloves,garlic,136
+R0000082,white wine,white_wine,1428
+R0000082,massel chicken liquid,chicken,1338
+R0000082,green beans,bean,1348
+R0000082,peas,pea,1088
+R0000082,fresh mint,mint,166
+R0000083,butter,butter,298
+R0000083,garlic cloves,garlic,136
+R0000083,onions,onion,1447
+R0000083,mushroom,mushroom,260
+R0000083,fresh thyme,thyme,1592
+R0000083,egg,egg,848
+R0000083,white wine,white_wine,1428
+R0000084,soy milk,soybean,41
+R0000084,lemon peel,lemon,1132
+R0000084,arborio rice,rice,205
+R0000084,raisins,raisin,133
+R0000084,cinnamon,cinnamon,439
+R0000085,kale,cabbage,1237
+R0000085,spinach leaves,spinach,1580
+R0000085,garlic cloves,garlic,136
+R0000085,olive oil,olive,466
+R0000085,prosciutto,pork,1586
+R0000086,potatoes,potato,385
+R0000086,Smoked Paprika,cayenne,663
+R0000087,olive oil,olive,466
+R0000087,bacon,pork,248
+R0000087,jalapenos,cayenne,663
+R0000087,tomatoes,tomato,1240
+R0000087,cheese,cheese,525
+R0000087,avacado,avocado,94
+R0000087,beans,bean,1348
+R0000087,fresh coriander,coriander,1267
+R0000087,onions,onion,1447
+R0000088,bacon,pork,1586
+R0000088,onions,onion,1447
+R0000088,butter,butter,298
+R0000088,pepper,black_pepper,7
+R0000088,milk,milk,396
+R0000088,potatoes,potato,385
+R0000088,cabbage,cabbage,1237
+R0000089,carrot,carrot,1216
+R0000089,onions,onion,1447
+R0000089,hen pheasants,chicken,1338
+R0000089,butter,butter,298
+R0000089,white wine vinegar,white_wine,1428
+R0000089,wine,white_wine,1428
+R0000089,thyme,thyme,1592
+R0000089,chicken stock,chicken,1338
+R0000090,bread flour,wheat,1179
+R0000090, flour,wheat,1179
+R0000090,yeast,yeast,407
+R0000090,milk,milk,396
+R0000090,butter,butter,298
+R0000090,onions,onion,1447
+R0000090,thyme,thyme,1592
+R0000090,pickled walnuts,walnut,1255
+R0000090,olive oil,olive,466
+R0000090,beef,beef,248
+R0000090,red wine,white_wine,1428
+R0000090,organic chicken stock,chicken,1338
+R0000090,garlic,garlic,136
+R0000090,bay leaves,bay_laurel,1126
+R0000090,oats,oat,1435
+R0000090,star anise,anise,707
+R0000090,pickled walnut juice,walnut,1255
+R0000091,fresh thyme,thyme,1592
+R0000091,barley,NIL,NIL
+R0000091,chicken Broth,chicken,1338
+R0000091,pepper,black_pepper,7
+R0000091,onions,onion,1447
+R0000091,chicken thighs,chicken,1338
+R0000092,garlic cloves,garlic,136
+R0000092,vinegar,vinegar,1012
+R0000092,creme fraiche,cream,724
+R0000092,potatoes,potato,385
+R0000092,carrot,carrot,1216
+R0000092,butter,butter,298
+R0000092,thyme leaves,thyme,1592
+R0000092,parsnships,carrot,1216
+R0000093,dried cannellini,kidney_bean,759
+R0000093,olive oil,olive,466
+R0000093,garlic cloves,garlic,136
+R0000093,thyme leaves,thyme,1592
+R0000093,wholegrain mustard,mustard,1140
+R0000093,cider vinegar,cider_vinegar,1540
+R0000093,curry leaves,curry_leaf,1543
+R0000093,tomatoes,tomato,1240
+R0000093,flat - leaf parsley,parsley,251
+R0000093,butter,butter,298
+R0000094,tomatoes,tomato,1240
+R0000094,oraage juice,orange,1257
+R0000094,brown onion,onion,1447
+R0000094,flour,wheat,1179
+R0000094,egg,egg,848
+R0000094,butter,butter,298
+R0000094,olive oil,olive,466
+R0000094,white vinegar,vinegar,1012
+R0000095,olive oil,olive,466
+R0000095,leek,onion,1447
+R0000095,garlic cloves,garlic,136
+R0000095,potatoes,potato,385
+R0000095,chicken stock,chicken,1338
+R0000095,thyme,thyme,1592
+R0000095,nutmeg,nutmeg,1356
+R0000095,cream,cream,724
+R0000095,french bread stick,bread,105
+R0000095,blue cheese,cheese,525
+R0000096,corned beef silverside,beef,248
+R0000096,brown onion,onion,1447
+R0000096,celery stalk,celery,1593
+R0000096,carrot,carrot,1216
+R0000096,bay leaves,bay_laurel,1126
+R0000096,black peppercorns,black_pepper,7
+R0000096,broccoli,broccoli,1591
+R0000096,cauliflower,cauliflower,1370
+R0000096,hot english mustard,mustard,1140
+R0000096,carrot,carrot,1216
+R0000096,butter,butter,298
+R0000096,plain flour,wheat,1179
+R0000096,mustard powder,mustard,1140
+R0000096,milk,milk,396
+R0000096,flat-leaf parsley,parsley,251
+R0000097,butter,butter,298
+R0000097,granny smith apples,apple,1197
+R0000097,pure cream,cream,724
+R0000097,eggs,egg,848
+R0000097,vanilla extract,vanilla_oil,203
+R0000097,plain flour,wheat,1179
+R0000097,self-raising flour,wheat,1179
+R0000097,butter,butter,298
+R0000097,cream,cream,724
+R0000098,olive oil,olive,466
+R0000098,garlic cloves,garlic,136
+R0000098,english spinach,spinach,1580
+R0000098,cream,cream,724
+R0000098,nutmeg,nutmeg,1356
+R0000099,milk,milk,396
+R0000099,cream,cream,724
+R0000099,calrose rice,rice,205
+R0000099,cinnamon ,cinnamon,439
+R0000099,vanilla bean paste,vanilla_oil,203
+R0000099,egg yolks,egg,848
+R0000099,nutmeg,nutmeg,1356
+R0000099,arborio rice,rice,205
+R00000100,butter,butter,298
+R00000100,plain flour,wheat,1179
+R00000100,rice flour,rice,205

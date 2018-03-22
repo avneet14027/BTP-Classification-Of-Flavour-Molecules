@@ -1,0 +1,100 @@
+Recipe ID,Recipe Name,No_of_shared_molecules_Tea1,No_of_shared_molecules_Tea2,No_of_shared_molecules_Tea3,No_of_shared_molecules_Tea3_Mint,No_of_shared_molecules_Tea3_Ginger,No_of_shared_molecules_Tea3_Cardamom,No_of_shared_molecules_Tea3_Cinnamon
+R000001,Chicken Tikka Masala,12,18,170,170,210,189,189
+R000002,Black Peas,10,13,111,111,128,117,117
+R000003,Bangers and mash,10,14,144,144,163,151,148
+R000004,Bubble and Squeak,10,13,126,126,142,133,130
+R000005,Fish and Chips,9,13,111,111,127,118,115
+R000006,Welsh Rarebit,7,12,128,128,147,136,134
+R000007,Yorkshire Pudding,6,9,104,104,113,109,105
+R000008,Banoffee Pie,8,12,124,124,164,135,127
+R000009,Battenburg Cake,11,16,147,147,187,165,152
+R0000010,Bread and Butter Pudding,11,15,142,142,161,155,147
+R0000011,Toad-in-the-Hole,6,10,86,86,97,93,89
+R0000012,Pork & apple sauce,11,15,141,141,181,158,147
+R0000013,Victoria Sponge Cake,7,10,101,101,110,106,102
+R0000014,Shephard's Pie,10,14,138,138,154,143,139
+R0000015,Cumberland sausage,11,15,157,157,177,167,165
+R0000016,Cottage Pie,10,14,156,156,177,165,161
+R0000017,Pork Pie,9,13,123,123,142,131,128
+R0000018,Eton Mess,9,12,100,100,110,105,104
+R0000020,Crumpets,15,22,175,175,203,197,194
+R0000021,Piccalilli,12,16,135,135,156,152,139
+R0000022,Berry Trifle,10,15,137,137,177,149,156
+R0000023,Slotty Clake,9,12,109,109,126,123,115
+R0000024,Boiled ham with pease pudding,5,8,95,95,104,100,96
+R0000025,British Scones,10,14,142,142,164,151,150
+R0000026,Mushy Peas,6,10,108,108,118,113,112
+R0000027,Lancashire Hot Pot,6,8,112,112,129,119,116
+R0000028,Cawl (Traditional Welsh Broth),9,12,110,110,119,115,111
+R0000029,Eccles Cakes,11,15,126,126,146,132,129
+R0000030,Steak and Kidney Pie with Bacon and Mushrooms,11,15,174,174,196,182,181
+R0000031,Lamb Cobbler,6,8,96,96,108,103,98
+R0000032,Sticky toffee pudding,10,15,163,163,185,171,170
+R0000033,Summer Pudding,8,14,115,115,128,122,134
+R0000034,Pound Cake,10,13,126,126,144,139,135
+R0000035,Roast beef with caramelised onion gravy,9,13,114,114,130,128,117
+R0000036,Roast lamb with spring herb crumbs,8,12,112,112,130,119,116
+R0000037,Full English breakfast,8,11,105,105,125,119,109
+R0000038,Lemon syllabub,13,17,139,139,159,155,145
+R0000039,Treacle Tart,8,12,125,125,145,138,130
+R0000040,Potted Shrimps,9,12,86,86,101,99,88
+R0000041,Scouse,12,16,144,144,165,159,148
+R0000042,Mince pies,8,12,125,125,142,139,128
+R0000043,Queen Of Puddings,12,17,158,158,198,180,167
+R0000044,Beef Pasties,8,12,128,128,147,142,133
+R0000045,Steamed Lemon Pudding with Treacle Sauce,11,15,133,133,150,148,136
+R0000046,Spotted dick with lemon syrup,11,17,138,138,156,153,157
+R0000047,Fifteens,6,9,86,86,98,91,88
+R0000048,Plain Madeira Cake,7,11,95,95,103,100,96
+R0000049,Classic bread and butter pudding,11,15,132,132,147,142,137
+R0000050,Swiss Roll ,10,14,106,106,115,111,110
+R0000051,Liver and Onions,10,14,138,138,158,147,144
+R0000052,wild rabbit stew,8,13,117,117,130,123,120
+R0000053,bath buns,7,10,104,104,114,109,105
+R0000054,Chocolate battenberg,11,15,161,161,174,170,167
+R0000055,Potted crab with asparagus,9,13,122,122,143,137,128
+R0000056,branbury cakes,12,18,162,162,182,175,181
+R0000057,brown shrimps on toast,4,6,90,90,97,95,91
+R0000058,cambridge burnt cream,6,9,78,78,86,83,79
+R0000059,Wholegrain mustard,7,10,49,49,51,50,50
+R0000060,onion gravy,9,12,148,148,161,155,151
+R0000061,Beef trencher,8,13,149,149,164,155,154
+R0000062,Pea and ham soup,7,8,76,76,85,78,77
+R0000063,Apple Crumble,4,6,86,86,93,91,87
+R0000064,Turkey Wellingtons,10,13,132,132,143,138,135
+R0000065,British simnel cakes,12,17,171,171,197,187,179
+R0000066,Easy Devonshire Cream,4,6,67,67,75,72,67
+R0000067,Irish Bacon and Cabbage Soup,11,13,113,113,127,120,117
+R0000068,Langoustines with lemon & pepper butter,9,13,161,161,184,175,168
+R0000069,Eggs Benedict,12,16,182,182,205,198,190
+R0000070,Simple soda bread,3,5,49,49,51,50,49
+R0000071,Chicken in a pot,11,14,129,129,141,137,132
+R0000072,Vanilla Pudding,11,14,122,122,133,130,126
+R0000073,Tarragon Chicken Salad Tea Sandwiches,10,14,132,132,147,139,136
+R0000074,Prosecco jelly,11,16,152,152,174,166,162
+R0000075,Whitebait & dill mayo,9,13,80,80,98,94,86
+R0000076,"Sliced fennel, orange & almond salad",10,14,97,97,115,108,103
+R0000077,Watermelon & feta salad,10,13,100,100,114,107,102
+R0000078,Mini vegan doughnuts,11,16,155,155,176,169,164
+R0000079,citrus shortbread,9,13,111,111,132,127,115
+R0000080,Potato Candy,8,14,123,123,136,129,142
+R0000081,PassionFruit Melting Moments,4,7,75,75,82,80,77
+R0000082,Winter pea & bean braise,10,14,157,157,173,165,163
+R0000083,Chicken wellingtons with creamy pea sauce,9,13,148,148,162,154,152
+R0000084,Spiced raisin rice pudding,11,17,128,128,148,143,147
+R0000085,Pumpkin and prosciutto lasagne,8,8,67,67,71,68,67
+R0000086,Potato Crisps,6,8,72,72,82,76,75
+R0000087,Bacon and cheese nachos,12,17,154,154,179,164,161
+R0000088,Colcannon,11,15,134,134,152,141,138
+R0000089,whole roasted pheasant,8,12,153,153,168,160,156
+R0000090,Beef & barley bun with horseradish,9,13,167,167,183,175,173
+R0000091,Cock a Leekie Soup,7,10,89,89,102,95,93
+R0000092,British roots,10,14,123,123,137,128,124
+R0000093,Posh beans toast,11,16,149,149,168,159,155
+R0000094,"Sweet potato hash brown with tomato, bacon and egg",12,16,148,148,170,163,152
+R0000095,Leek & potato soup with blue cheese toast,10,14,132,132,149,141,136
+R0000096,Corned beef with parsley sauce,8,12,148,148,171,157,154
+R0000097,Apple and butterscotch sponge pudding,12,15,123,123,137,129,125
+R0000098,Creamed spinach,8,10,90,90,103,96,94
+R0000099,Baked rice pudding,9,15,119,119,134,128,138
+R00000100,Traditional shortbread,6,8,98,98,105,104,100
